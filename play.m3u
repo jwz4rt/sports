@@ -1,36 +1,16 @@
-#EXTINF:-1 tvg-id="magenta.sport.de" tvg-name="DE062:MAGENTA SPORT 1" tvg-logo="http://www.tvboxgroup.com/iptv/logo/DE/DE062SkyCinemaNostalgie.png" group-title="DE Sports",DE062:MAGENTA SPORT 1
-http://vo01.mohdtv.com:8880/voby1852/318127580cde00576254/2621
-#EXTINF:-1 tvg-id="sky.krimi.de" tvg-name="DE063:MAGENTA SPORT 2" tvg-logo="http://www.tvboxgroup.com/iptv/logo/DE/DE063SkyKrimi.png" group-title="DE Sports",DE063:MAGENTA SPORT 2
-http://vo01.mohdtv.com:8880/voby1852/318127580cde00576254/2620
-#EXTINF:-1 tvg-id="sky.sport.1.de" tvg-name="DE064:MAGENTA SPORT 3" tvg-logo="http://www.tvboxgroup.com/iptv/logo/DE/DE064SkySport1.png" group-title="DE Sports",DE064:MAGENTA SPORT 3
-http://vo01.mohdtv.com:8880/voby1852/318127580cde00576254/2619
-#EXTINF:-1 tvg-id="sky.sport.2.de" tvg-name="DE065:MAGENTA SPORT 4" tvg-logo="http://www.tvboxgroup.com/iptv/logo/DE/DE065SkySport2.png" group-title="DE Sports",DE065:MAGENTA SPORT 4
-http://vo01.mohdtv.com:8880/voby1852/318127580cde00576254/2618
-#EXTINF:-1 tvg-id="sky.sport.austria.de" tvg-name="DE066:MAGENTA SPORT 5" tvg-logo="http://www.tvboxgroup.com/iptv/logo/DE/DE066SkySportAustria.png" group-title="DE Sports",DE066:MAGENTA SPORT 5
-http://vo01.mohdtv.com:8880/voby1852/318127580cde00576254/2617
-#EXTINF:-1 tvg-id="sky.sport.news.de" tvg-name="DE067:MAGENTA SPORT 6" tvg-logo="http://www.tvboxgroup.com/iptv/logo/DE/DE067SkySportNews.png" group-title="DE Sports",DE067:MAGENTA SPORT 6
-http://vo01.mohdtv.com:8880/voby1852/318127580cde00576254/2616
-#EXTINF:-1 tvg-id="universal.de" tvg-name="DE068:MAGENTA SPORT 7" tvg-logo="http://www.tvboxgroup.com/iptv/logo/DE/DE068UniversalDE.png" group-title="DE Sports",DE068:MAGENTA SPORT 7
-http://vo01.mohdtv.com:8880/voby1852/318127580cde00576254/2615
-#EXTINF:-1 tvg-id="sport1.de" tvg-name="DE069:MAGENTA SPORT 8" tvg-logo="http://www.tvboxgroup.com/iptv/logo/DE/DE069Sport1.png" group-title="DE Sports",DE069:MAGENTA SPORT 8
-http://vo01.mohdtv.com:8880/voby1852/318127580cde00576254/2614
-#EXTINF:-1 tvg-id="sportdigital.de" tvg-name="DE070:MAGENTA SPORT 9" tvg-logo="http://www.tvboxgroup.com/iptv/logo/DE/DE070SportDigital.png" group-title="DE Sports",DE070:MAGENTA SPORT 9
-http://vo01.mohdtv.com:8880/voby1852/318127580cde00576254/2613
-#EXTINF:-1 tvg-id="super.rtl.de" tvg-name="DE071:MAGENTA SPORT 10" tvg-logo="http://www.tvboxgroup.com/iptv/logo/DE/DE071SuperRTL.png" group-title="DE Sports",DE071:MAGENTA SPORT 10
-http://vo01.mohdtv.com:8880/voby1852/318127580cde00576254/2612
-#EXTINF:-1 tvg-id="syfy.de" tvg-name="DE072:MAGENTA SPORT 11" tvg-logo="http://www.tvboxgroup.com/iptv/logo/DE/DE072SyfyDE.png" group-title="DE Sports",DE072:MAGENTA SPORT 11
-http://vo01.mohdtv.com:8880/voby1852/318127580cde00576254/2611
-#EXTINF:-1 tvg-id="a.e.br" tvg-name="DE073:MAGENTA SPORT 12" tvg-logo="http://www.tvboxgroup.com/iptv/logo/DE/DE073TNTComedy.png" group-title="DE Sports",DE073:MAGENTA SPORT 12
-http://vo01.mohdtv.com:8880/voby1852/318127580cde00576254/2610
-#EXTINF:-1 tvg-id="a.e.br" tvg-name="DE074:MAGENTA SPORT 13" tvg-logo="http://www.tvboxgroup.com/iptv/logo/DE/DE074TNTFilm.png" group-title="DE Sports",DE074:MAGENTA SPORT 13
-http://vo01.mohdtv.com:8880/voby1852/318127580cde00576254/2609
-#EXTINF:-1 tvg-id="a.e.br" tvg-name="DE075:MAGENTA SPORT 14" tvg-logo="http://www.tvboxgroup.com/iptv/logo/DE/DE075TNTSeries.png" group-title="DE Sports",DE075:MAGENTA SPORT 14
-http://vo01.mohdtv.com:8880/voby1852/318127580cde00576254/2608
-#EXTINF:-1 tvg-id="vox.de" tvg-name="DE076:MAGENTA SPORT 15" tvg-logo="http://www.tvboxgroup.com/iptv/logo/DE/DE076VOX.png" group-title="DE Sports",DE076:MAGENTA SPORT 15
-http://vo01.mohdtv.com:8880/voby1852/318127580cde00576254/2607
-#EXTINF:-1 tvg-id="wdr.de" tvg-name="DE077:MAGENTA SPORT 16" tvg-logo="http://www.tvboxgroup.com/iptv/logo/DE/DE077WDR.png" group-title="DE Sports",DE077:MAGENTA SPORT 16
-http://vo01.mohdtv.com:8880/voby1852/318127580cde00576254/2606
-#EXTINF:-1 tvg-id="zdf.de" tvg-name="DE078:MAGENTA SPORT 17" tvg-logo="http://www.tvboxgroup.com/iptv/logo/DE/DE078ZDF.png" group-title="DE Sports",DE078:MAGENTA SPORT 17
-http://vo01.mohdtv.com:8880/voby1852/318127580cde00576254/2605
-#EXTINF:-1 tvg-id="sky.sport.3.de" tvg-name="DE079:MAGENTA SPORT 18" tvg-logo="http://www.tvboxgroup.com/iptv/logo/DE/DE079SkySport9HD(DuringGamesonly).png" group-title="DE Sports",DE079:MAGENTA SPORT 18
-http://vo01.mohdtv.com:8880/voby1852/318127580cde00576254/29205
+#EXTINF:-1,DIGI Sport 1 HD RO
+http://letmein.fun:8080/tdwa6c2pnD/toVLgtxBrJ/753
+#EXTINF:-1,Digi Sport 1 FHD RO
+http://letmein.fun:8080/tdwa6c2pnD/toVLgtxBrJ/74071
+#EXTINF:-1,Digi Sport 2 RO
+http://letmein.fun:8080/tdwa6c2pnD/toVLgtxBrJ/763
+#EXTINF:-1,Digi Sport 2 FHD RO
+http://letmein.fun:8080/tdwa6c2pnD/toVLgtxBrJ/74070
+#EXTINF:-1,Digi Sport 3 RO
+http://letmein.fun:8080/tdwa6c2pnD/toVLgtxBrJ/762
+#EXTINF:-1,Digi Sport 3 FHD RO
+http://letmein.fun:8080/tdwa6c2pnD/toVLgtxBrJ/74069
+#EXTINF:-1,Digi Sport 4 RO
+http://letmein.fun:8080/tdwa6c2pnD/toVLgtxBrJ/761
+#EXTINF:-1,Digi Sport 4 FHD RO
+http://letmein.fun:8080/tdwa6c2pnD/toVLgtxBrJ/74068
