@@ -248,15 +248,9 @@ http://vo01.mohdtv.com:8880/voby4685/77979341/55281
 
 
 
-#EXTINF:-1,|STARZPLAY| AD SPORT 1 HD
-http://sf.bleutv.net:8080/live/172011315090038/172019741564968/47585.ts
-#EXTINF:-1,|STARZPLAY| AD SPORT 2 HD
-http://sf.bleutv.net:8080/live/172011315090038/172019741564968/47586.ts
-#EXTINF:-1,|STARZPLAY| AD SPORT PREMIUM 1 HD
-http://sf.bleutv.net:8080/live/172011315090038/172019741564968/47587.ts
-#EXTINF:-1,|STARZPLAY| AD SPORT PREMIUM 2 HD
-http://sf.bleutv.net:8080/live/172011315090038/172019741564968/47588.ts
-#EXTINF:-1,|STARZPLAY| AD SPORT ASIA 1 HD
-http://sf.bleutv.net:8080/live/172011315090038/172019741564968/47589.ts
-#EXTINF:-1,|STARZPLAY| AD SPORT ASIA 2 HD
-http://sf.bleutv.net:8080/live/172011315090038/172019741564968/47590.ts
+#EXTINF:-1 tvg-ID="" tvg-name="IN: Sony Ten 1 HD" tvg-logo="" group-title="INDIAN",IN: Sony Ten 1 HD
+http://dreamtv22.info:25461/reciver_680518/vr50XoYX/34949
+#EXTINF:-1 tvg-ID="" tvg-name="IN: Sony Ten 2 HD" tvg-logo="" group-title="INDIAN",IN: Sony Ten 2 HD
+http://dreamtv22.info:25461/reciver_680518/vr50XoYX/34950
+#EXTINF:-1 tvg-ID="" tvg-name="IN: Sony Ten 3 HD" tvg-logo="" group-title="INDIAN",IN: Sony Ten 3 HD
+http://dreamtv22.info:25461/reciver_680518/vr50XoYX/34951
