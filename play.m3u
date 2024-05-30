@@ -1,40 +1,68 @@
-#EXTINF:-1 tvg-id="" tvg-name="WSP:  SuperSport Grandstand" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/66/Supersport2012.jpg/200px-Supersport2012.jpg" group-title="World Sports",WSP:  SuperSport Grandstand
-http://jabawalkies.club:8080/Frost33/zWqPmQpS2D/47211
-#EXTINF:-1 tvg-id="" tvg-name="WSP:  SuperSport Psl" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/66/Supersport2012.jpg/200px-Supersport2012.jpg" group-title="World Sports",WSP:  SuperSport Psl
-http://jabawalkies.club:8080/Frost33/zWqPmQpS2D/47212
-#EXTINF:-1 tvg-id="" tvg-name="WSP:  SuperSport PL" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/66/Supersport2012.jpg/200px-Supersport2012.jpg" group-title="World Sports",WSP:  SuperSport PL
-http://jabawalkies.club:8080/Frost33/zWqPmQpS2D/47213
-#EXTINF:-1 tvg-id="" tvg-name="WSP:  SuperSport Cricket" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/66/Supersport2012.jpg/200px-Supersport2012.jpg" group-title="World Sports",WSP:  SuperSport Cricket
-http://jabawalkies.club:8080/Frost33/zWqPmQpS2D/47214
-#EXTINF:-1 tvg-id="" tvg-name="WSP:  SuperSport Football" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/66/Supersport2012.jpg/200px-Supersport2012.jpg" group-title="World Sports",WSP:  SuperSport Football
-http://jabawalkies.club:8080/Frost33/zWqPmQpS2D/47215
-#EXTINF:-1 tvg-id="" tvg-name="WSP:  SuperSport Variety 2" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/66/Supersport2012.jpg/200px-Supersport2012.jpg" group-title="World Sports",WSP:  SuperSport Variety 2
-http://jabawalkies.club:8080/Frost33/zWqPmQpS2D/47216
-#EXTINF:-1 tvg-id="" tvg-name="WSP:  SuperSport Action" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/66/Supersport2012.jpg/200px-Supersport2012.jpg" group-title="World Sports",WSP:  SuperSport Action
-http://jabawalkies.club:8080/Frost33/zWqPmQpS2D/47217
-#EXTINF:-1 tvg-id="" tvg-name="WSP:  SuperSport Variety 3" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/66/Supersport2012.jpg/200px-Supersport2012.jpg" group-title="World Sports",WSP:  SuperSport Variety 3
-http://jabawalkies.club:8080/Frost33/zWqPmQpS2D/47218
-#EXTINF:-1 tvg-id="" tvg-name="WSP:  Supersport Variety 1" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/66/Supersport2012.jpg/200px-Supersport2012.jpg" group-title="World Sports",WSP:  Supersport Variety 1
-http://jabawalkies.club:8080/Frost33/zWqPmQpS2D/47219
-#EXTINF:-1 tvg-id="" tvg-name="WSP:  SuperSport LaLiga" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/66/Supersport2012.jpg/200px-Supersport2012.jpg" group-title="World Sports",WSP:  SuperSport LaLiga
-http://jabawalkies.club:8080/Frost33/zWqPmQpS2D/47220
-#EXTINF:-1 tvg-id="" tvg-name="WSP:  SuperSport Variety 4" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/66/Supersport2012.jpg/200px-Supersport2012.jpg" group-title="World Sports",WSP:  SuperSport Variety 4
-http://jabawalkies.club:8080/Frost33/zWqPmQpS2D/47221
-#EXTINF:-1 tvg-id="" tvg-name="WSP:  SuperSport Rugby" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/66/Supersport2012.jpg/200px-Supersport2012.jpg" group-title="World Sports",WSP:  SuperSport Rugby
-http://jabawalkies.club:8080/Frost33/zWqPmQpS2D/47222
-#EXTINF:-1 tvg-id="" tvg-name="WSP:  SUPERSPORT BLITZ" tvg-logo="" group-title="World Sports",WSP:  SUPERSPORT BLITZ
-http://jabawalkies.club:8080/Frost33/zWqPmQpS2D/47223
-#EXTINF:-1 tvg-id="" tvg-name="WSP:  SUPERSPORT MAXIMO" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/66/Supersport2012.jpg/200px-Supersport2012.jpg" group-title="World Sports",WSP:  SUPERSPORT MAXIMO
-http://jabawalkies.club:8080/Frost33/zWqPmQpS2D/47224
+#EXTINF:-1 tvg-ID="14792" tvg-name="EXYU: EUROSPORT 1 HD" tvg-logo="" group-title="EX-YU",EXYU: EUROSPORT 1 HD
+http://kaantv.site:8000/kaan20537/5s4rfd84e57s/20112
+#EXTINF:-1 tvg-ID="" tvg-name="EX-YU: ARENA SPORT 4 HR" tvg-logo="" group-title="EX-YU",EX-YU: ARENA SPORT 4 HR
+http://kaantv.site:8000/kaan20537/5s4rfd84e57s/20760
+#EXTINF:-1 tvg-ID="" tvg-name="EX-YU: ARENA SPORT 3 HR" tvg-logo="" group-title="EX-YU",EX-YU: ARENA SPORT 3 HR
+http://kaantv.site:8000/kaan20537/5s4rfd84e57s/20761
+#EXTINF:-1 tvg-ID="13927" tvg-name="EX-YU: Arena Sport 1 HR" tvg-logo="" group-title="EX-YU",EX-YU: Arena Sport 1 HR
+http://kaantv.site:8000/kaan20537/5s4rfd84e57s/20763
+#EXTINF:-1 tvg-ID="" tvg-name="EX-YU: Arena Sport 2" tvg-logo="" group-title="EX-YU",EX-YU: Arena Sport 2
+http://kaantv.site:8000/kaan20537/5s4rfd84e57s/20764
+#EXTINF:-1 tvg-ID="13927" tvg-name="EX-YU: Arena Sport 3" tvg-logo="" group-title="EX-YU",EX-YU: Arena Sport 3
+http://kaantv.site:8000/kaan20537/5s4rfd84e57s/20765
+#EXTINF:-1 tvg-ID="13927" tvg-name="EX-YU: Arena Sport 4" tvg-logo="" group-title="EX-YU",EX-YU: Arena Sport 4
+http://kaantv.site:8000/kaan20537/5s4rfd84e57s/20766
+#EXTINF:-1 tvg-ID="" tvg-name="EX-YU: Arena Sport 5" tvg-logo="" group-title="EX-YU",EX-YU: Arena Sport 5
+http://kaantv.site:8000/kaan20537/5s4rfd84e57s/20767
+#EXTINF:-1 tvg-ID="13927" tvg-name="EX-YU: Arena Sport 1 HD SRB" tvg-logo="" group-title="EX-YU",EX-YU: Arena Sport 1 HD SRB
+http://kaantv.site:8000/kaan20537/5s4rfd84e57s/20768
+#EXTINF:-1 tvg-ID="13927" tvg-name="EX-YU: Arena Sport 2 HD SRB" tvg-logo="" group-title="EX-YU",EX-YU: Arena Sport 2 HD SRB
+http://kaantv.site:8000/kaan20537/5s4rfd84e57s/20769
+#EXTINF:-1 tvg-ID="13927" tvg-name="EX-YU: Arena Sport 3 HD SRB" tvg-logo="" group-title="EX-YU",EX-YU: Arena Sport 3 HD SRB
+http://kaantv.site:8000/kaan20537/5s4rfd84e57s/20770
+#EXTINF:-1 tvg-ID="13927" tvg-name="EX-YU: Arena Sport 4 HD SRB" tvg-logo="" group-title="EX-YU",EX-YU: Arena Sport 4 HD SRB
+http://kaantv.site:8000/kaan20537/5s4rfd84e57s/20771
+#EXTINF:-1 tvg-ID="13927" tvg-name="EX-YU: Arena Sport 1 HD HR" tvg-logo="" group-title="EX-YU",EX-YU: Arena Sport 1 HD HR
+http://kaantv.site:8000/kaan20537/5s4rfd84e57s/20772
+#EXTINF:-1 tvg-ID="13927" tvg-name="EX-YU: Arena Sport 2 HD HR" tvg-logo="" group-title="EX-YU",EX-YU: Arena Sport 2 HD HR
+http://kaantv.site:8000/kaan20537/5s4rfd84e57s/20773
+#EXTINF:-1 tvg-ID="13927" tvg-name="EX-YU: Arena Sport 5 HD HR" tvg-logo="" group-title="EX-YU",EX-YU: Arena Sport 5 HD HR
+http://kaantv.site:8000/kaan20537/5s4rfd84e57s/20774
+#EXTINF:-1 tvg-ID="14729" tvg-name="EX-YU: Arena Sport 6 HD HR" tvg-logo="" group-title="EX-YU",EX-YU: Arena Sport 6 HD HR
+http://kaantv.site:8000/kaan20537/5s4rfd84e57s/20775
+#EXTINF:-1 tvg-ID="Arena Sport 1 (BH)" tvg-name="EX-YU: Moja TV Premier Liga BiH" tvg-logo="" group-title="EX-YU",EX-YU: Moja TV Premier Liga BiH
+http://kaantv.site:8000/kaan20537/5s4rfd84e57s/20776
+#EXTINF:-1 tvg-ID="13927" tvg-name="EX-YU: Planet Sport 1 HD" tvg-logo="" group-title="EX-YU",EX-YU: Planet Sport 1 HD
+http://kaantv.site:8000/kaan20537/5s4rfd84e57s/20778
+#EXTINF:-1 tvg-ID="13927" tvg-name="EX-YU: Planet Sport 2 HD" tvg-logo="" group-title="EX-YU",EX-YU: Planet Sport 2 HD
+http://kaantv.site:8000/kaan20537/5s4rfd84e57s/20779
+#EXTINF:-1 tvg-ID="13927" tvg-name="EX-YU: Planet Sport 3 HD" tvg-logo="" group-title="EX-YU",EX-YU: Planet Sport 3 HD
+http://kaantv.site:8000/kaan20537/5s4rfd84e57s/20780
+#EXTINF:-1 tvg-ID="sport-klub-4" tvg-name="EX-YU: Sport Klub 4 HD" tvg-logo="" group-title="EX-YU",EX-YU: Sport Klub 4 HD
+http://kaantv.site:8000/kaan20537/5s4rfd84e57s/20781
+#EXTINF:-1 tvg-ID="" tvg-name="EX-YU: Sport Klub 5 HD" tvg-logo="" group-title="EX-YU",EX-YU: Sport Klub 5 HD
+http://kaantv.site:8000/kaan20537/5s4rfd84e57s/20782
+#EXTINF:-1 tvg-ID="13927" tvg-name="EX-YU: Sport Klub 6 HD" tvg-logo="" group-title="EX-YU",EX-YU: Sport Klub 6 HD
+http://kaantv.site:8000/kaan20537/5s4rfd84e57s/20783
+#EXTINF:-1 tvg-ID="13927" tvg-name="EX-YU: Sport Klub 2 SRB" tvg-logo="" group-title="EX-YU",EX-YU: Sport Klub 2 SRB
+http://kaantv.site:8000/kaan20537/5s4rfd84e57s/20785
+#EXTINF:-1 tvg-ID="13927" tvg-name="EX-YU: Sport Klub 3 SRB" tvg-logo="" group-title="EX-YU",EX-YU: Sport Klub 3 SRB
+http://kaantv.site:8000/kaan20537/5s4rfd84e57s/20786
+#EXTINF:-1 tvg-ID="" tvg-name="EX-YU: Sport Klub 4 SRB" tvg-logo="" group-title="EX-YU",EX-YU: Sport Klub 4 SRB
+http://kaantv.site:8000/kaan20537/5s4rfd84e57s/20787
+#EXTINF:-1 tvg-ID="" tvg-name="EX-YU: Sport Klub 5 SRB" tvg-logo="" group-title="EX-YU",EX-YU: Sport Klub 5 SRB
+http://kaantv.site:8000/kaan20537/5s4rfd84e57s/20788
+#EXTINF:-1 tvg-ID="14729" tvg-name="EX-YU: Sport Klub 6 SRB" tvg-logo="" group-title="EX-YU",EX-YU: Sport Klub 6 SRB
+http://kaantv.site:8000/kaan20537/5s4rfd84e57s/20789
+#EXTINF:-1 tvg-ID="13927" tvg-name="EX-YU: Sport Klub 1 HD HR" tvg-logo="" group-title="EX-YU",EX-YU: Sport Klub 1 HD HR
+http://kaantv.site:8000/kaan20537/5s4rfd84e57s/20790
+#EXTINF:-1 tvg-ID="13927" tvg-name="EX-YU: Sport Klub 2 HD HR" tvg-logo="" group-title="EX-YU",EX-YU: Sport Klub 2 HD HR
+http://kaantv.site:8000/kaan20537/5s4rfd84e57s/20791
+#EXTINF:-1 tvg-ID="13927" tvg-name="EX-YU: Sport Klub 3 HD HR" tvg-logo="" group-title="EX-YU",EX-YU: Sport Klub 3 HD HR
+http://kaantv.site:8000/kaan20537/5s4rfd84e57s/20792
+#EXTINF:-1 tvg-ID="14794" tvg-name="EX-YU: EUROSPORT 2 HD" tvg-logo="" group-title="EX-YU",EX-YU: EUROSPORT 2 HD
+http://kaantv.site:8000/kaan20537/5s4rfd84e57s/20794
 
-
-
-#EXTINF:-1 tvg-id="" tvg-name="IN: Sony Ten 1" tvg-logo="" group-title="India HD",IN: Sony Ten 1
-http://jabawalkies.club:8080/Frost33/zWqPmQpS2D/74716
-#EXTINF:-1 tvg-id="" tvg-name="IN: Sony Ten 2" tvg-logo="" group-title="India HD",IN: Sony Ten 2
-http://jabawalkies.club:8080/Frost33/zWqPmQpS2D/74717
-#EXTINF:-1 tvg-id="" tvg-name="IN: Sony Ten 3" tvg-logo="" group-title="India HD",IN: Sony Ten 3
-http://jabawalkies.club:8080/Frost33/zWqPmQpS2D/74718
 
 
 #EXTINF:-1 group-title="MLS 🇺🇲" tvg-logo="https://www.thesportsdb.com/images/media/league/badge/dqo6r91549878326.png/preview" ,  01 | MAJOR LEAGUE SOCCER AMERICA [ iKiTV ]
