@@ -2,31 +2,16 @@
 http://likea8bitboss.xyz:80/CCollins/6392517048/743849
 
 
-#EXTINF:-1,AD SPORTS ASIA 1 HD
-http://ns3151196.ip-51-91-18.eu:8080/topsat102115/hTWwQzqH/50246
-#EXTINF:-1,AD SPORTS ASIA 2 HD
-http://ns3151196.ip-51-91-18.eu:8080/topsat102115/hTWwQzqH/50247
-#EXTINF:-1,AD SPORTS 1 Full-HD
-http://ns3151196.ip-51-91-18.eu:8080/topsat102115/hTWwQzqH/50248
-#EXTINF:-1,AD SPORTS 2 HD
-http://ns3151196.ip-51-91-18.eu:8080/topsat102115/hTWwQzqH/50249
-
-
-#EXTINF:-1,UK-BT Sport 1 HD
-http://ns3151196.ip-51-91-18.eu:8080/topsat102115/hTWwQzqH/12072
-#EXTINF:-1,UK-BT Sports 1 SD
-http://ns3151196.ip-51-91-18.eu:8080/topsat102115/hTWwQzqH/12073
-#EXTINF:-1,UK-BT SPORTS 2 HD
-http://ns3151196.ip-51-91-18.eu:8080/topsat102115/hTWwQzqH/12074
-#EXTINF:-1,UK-BT Sports 2 SD
-http://ns3151196.ip-51-91-18.eu:8080/topsat102115/hTWwQzqH/12075
-#EXTINF:-1,UK-BT Sport 3 HD
-http://ns3151196.ip-51-91-18.eu:8080/topsat102115/hTWwQzqH/12076
-#EXTINF:-1,UK-BT Sports 3 SD
-http://ns3151196.ip-51-91-18.eu:8080/topsat102115/hTWwQzqH/12077
-#EXTINF:-1,UK-BT Sport Espn HD
-http://ns3151196.ip-51-91-18.eu:8080/topsat102115/hTWwQzqH/12078
-
+#EXTINF:-1 tvg-id="" tvg-name="AE: Abu Dhabi Sports 1" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/1251e175cc39adad228a8ea9a180ae12.png" group-title="UAE ➾ Sports",AE: Abu Dhabi Sports 1
+http://xtv.ooo:8080/426117/4141616/354997
+#EXTINF:-1 tvg-id="" tvg-name="AE: Abu Dhabi Sports 2" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/8a35d5aa933df9c7198e9bcaf798352e.png" group-title="UAE ➾ Sports",AE: Abu Dhabi Sports 2
+http://xtv.ooo:8080/426117/4141616/354998
+#EXTINF:-1 tvg-id="" tvg-name="AE: Abu Dhabi Sports Premium 1" tvg-logo="http://s3.i3ns.net/portal/picon/2022-09/fdc98038cef740d81b17b6d939bb9e1f.jpeg" group-title="UAE ➾ Sports",AE: Abu Dhabi Sports Premium 1
+http://xtv.ooo:8080/426117/4141616/354999
+#EXTINF:-1 tvg-id="" tvg-name="AE: Abu Dhabi Sports Premium 2" tvg-logo="http://s3.i3ns.net/portal/picon/2022-09/0052adee9541d5e80b7a12d30d92e50c.png" group-title="UAE ➾ Sports",AE: Abu Dhabi Sports Premium 2
+http://xtv.ooo:8080/426117/4141616/355000
+#EXTINF:-1 tvg-id="" tvg-name="AE: Dubai Racing" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/20a2d5d9109e385232b268e365b0521e.png" group-title="UAE ➾ Sports",AE: Dubai Racing
+http://xtv.ooo:8080/426117/4141616/355001
 
 
 
