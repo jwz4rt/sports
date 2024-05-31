@@ -254,3 +254,55 @@ http://dreamtv22.info:25461/reciver_680518/vr50XoYX/34949
 http://dreamtv22.info:25461/reciver_680518/vr50XoYX/34950
 #EXTINF:-1 tvg-ID="" tvg-name="IN: Sony Ten 3 HD" tvg-logo="" group-title="INDIAN",IN: Sony Ten 3 HD
 http://dreamtv22.info:25461/reciver_680518/vr50XoYX/34951
+
+
+
+#EXTINF: -1 tvg-id="Prima Sport 1.ro" tvg-logo="https://m3u-editor.com/storage/channel-logos/a7a82e30-1518-11ef-a9ea-ddbba35132ac/6748992/1165185950.png" group-title="SPORT", PRIMA SPORT 1
+https://p5.stirilepe.net/primasport1hd/tracks-v1a1/mono.m3u8
+#EXTINF: -1 tvg-id="Prima Sport 2.ro" tvg-logo="https://m3u-editor.com/storage/channel-logos/a7a82e30-1518-11ef-a9ea-ddbba35132ac/6748992/1165185962.png" group-title="SPORT", PRIMA SPORT 2
+https://p5.stirilepe.net/primasport2sd/tracks-v1a1/mono.m3u8
+#EXTINF: -1 tvg-id="Prima Sport 3.ro" tvg-logo="https://m3u-editor.com/storage/channel-logos/a7a82e30-1518-11ef-a9ea-ddbba35132ac/6748992/1165185963.png" group-title="SPORT", PRIMA SPORT 3
+https://p5.stirilepe.net/primasport3sd/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="Indonesia" tvg-logo="https://i.ibb.co/CBBxyNt/hgtv-home-tv.png",HGTV
+https://kusnadipepenk.github.io/ntn/hgtv.m3u8
+#EXTINF:-1 group-title="*SPORT TV",BANGLA india_Sony Sport ten 1 HD
+http://103.115.242.23:82/play/a00b
+#EXTINF:-1 group-title="*SPORT TV",BANGLA india_Sony Sport Ten 2 HD
+http://103.115.242.23:82/play/a00v
+#EXTINF:-1 group-title="*SPORT TV",BANGLA india_Sony Sports Ten 1 HD
+http://starshare.live:8080/live/Sylvia/Sylvia/98861.m3u8
+#EXTINF:-1 group-title="*SPORT TV",BANGLA india_Sony Sports Ten 2 HD
+http://starshare.live:8080/live/Sylvia/Sylvia/98862.m3u8
+#EXTINF:-1 group-title="*SPORT TV",BANGLA india_Sony Sports Ten 3 HD
+http://starshare.live:8080/live/Sylvia/Sylvia/98863.m3u8
+#EXTINF:-1 group-title="*SPORT TV",BANGLA india_Sony Sports Ten 4
+http://starshare.live:8080/live/Sylvia/Sylvia/29469.m3u8
+#EXTINF:-1 group-title="*SPORT TV",BANGLA india_Sony Sports Ten 5 HD
+http://starshare.live:8080/live/Sylvia/Sylvia/98870.m3u8
+#EXTINF:-1 group-title="Bangladesh-BANGLA india",Sony Sport ten 1 HD
+http://103.115.242.23:82/play/a00b
+#EXTINF:-1 group-title="Bangladesh-BANGLA india",Sony Sport Ten 2 HD
+http://103.115.242.23:82/play/a00v
+
+#EXTINF:-1 group-title="Bangladesh-BANGLA india" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/56e54462053b1b278b80b532c89c01f17e360fd5/Sony%20Sports%20Ten%201.png",Sony Sports Ten 1 HD
+http://starshare.live:8080/live/Sylvia/Sylvia/98861.m3u8
+#EXTINF:-1 group-title="Bangladesh-BANGLA india" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/56e54462053b1b278b80b532c89c01f17e360fd5/Sony%20Sports%20Ten%202.png",Sony Sports Ten 2 HD
+http://starshare.live:8080/live/Sylvia/Sylvia/98862.m3u8
+#EXTINF:-1 group-title="Bangladesh-BANGLA india" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/56e54462053b1b278b80b532c89c01f17e360fd5/Sony%20Sports%20Ten%203.png",Sony Sports Ten 3 HD
+http://starshare.live:8080/live/Sylvia/Sylvia/98863.m3u8
+#EXTINF:-1 group-title="Bangladesh-BANGLA india" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/56e54462053b1b278b80b532c89c01f17e360fd5/Sony%20Sports%20Ten%204.png",Sony Sports Ten 4
+http://starshare.live:8080/live/Sylvia/Sylvia/29469.m3u8
+#EXTINF:-1 group-title="Bangladesh-BANGLA india" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/56e54462053b1b278b80b532c89c01f17e360fd5/Sony%20Sports%20Ten%205.png",Sony Sports Ten 5 HD
+http://starshare.live:8080/live/Sylvia/Sylvia/98870.m3u8
+#EXTINF:-1 group-title="Bangladesh-BANGLA india" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/56e54462053b1b278b80b532c89c01f17e360fd5/Sony%20TV.png",Sony TV
+http://starshare.live:8080/live/Sylvia/Sylvia/98854.m3u8
+#EXTINF:-1,IN: SONY TEN 1 SD
+http://119988878993843269.ofgh525.xyz:80/live/ja1233851/MShnb5H5t4H/843269.ts
+#EXTINF:-1,IN: SONY TEN 3 FHD
+http://119988878993843272.ofgh525.xyz:80/live/ja1233851/MShnb5H5t4H/843272.ts
+
+#EXTINF:-1,IN: SONY TEN 2 FHD
+http://119988878993855442.ofgh525.xyz:80/live/ja1233851/MShnb5H5t4H/855442.ts
+
+
