@@ -12,6 +12,49 @@ EXTINF:-1 tvg-id="" tvg-name="US: FUBO SPORTS NETWORK HD" tvg-logo="" group-titl
 http://stv2030.com:2052/tabernas1/83819121/177380
 
 
+
+#EXTINF:-1,RO TELEKOM SPORT 1
+http://live.lordstreams.co:8080/sp-restream/f1yV8DojJ9/596486
+#EXTINF:-1,RO TELEKOM SPORT 2
+http://live.lordstreams.co:8080/sp-restream/f1yV8DojJ9/596485
+#EXTINF:-1,RO TELEKOM SPORT 3
+http://live.lordstreams.co:8080/sp-restream/f1yV8DojJ9/596484
+#EXTINF:-1,RO TELEKOM SPORT 4
+http://live.lordstreams.co:8080/sp-restream/f1yV8DojJ9/596483
+
+
+#EXTINF:-1,UK BT Sports 1 FHD
+http://live.lordstreams.co:8080/sp-restream/f1yV8DojJ9/2337
+#EXTINF:-1,UK BT Sports 10 Extra 6
+http://live.lordstreams.co:8080/sp-restream/f1yV8DojJ9/2329
+#EXTINF:-1,UK BT Sports 2 FHD
+http://live.lordstreams.co:8080/sp-restream/f1yV8DojJ9/2336
+#EXTINF:-1,UK BT Sports 2 HD
+http://live.lordstreams.co:8080/sp-restream/f1yV8DojJ9/2326
+#EXTINF:-1,UK BT Sports 3 FHD
+http://live.lordstreams.co:8080/sp-restream/f1yV8DojJ9/2335
+#EXTINF:-1,UK BT Sports 3 HD
+http://live.lordstreams.co:8080/sp-restream/f1yV8DojJ9/2325
+#EXTINF:-1,UK BT Sports 4 ESPN HD
+http://live.lordstreams.co:8080/sp-restream/f1yV8DojJ9/2334
+#EXTINF:-1,UK BT Sports 5 Extra 1
+http://live.lordstreams.co:8080/sp-restream/f1yV8DojJ9/2332
+#EXTINF:-1,UK BT Sports 6 Extra 2
+http://live.lordstreams.co:8080/sp-restream/f1yV8DojJ9/2331
+#EXTINF:-1,UK BT Sports 7 Extra 3
+http://live.lordstreams.co:8080/sp-restream/f1yV8DojJ9/2330
+#EXTINF:-1,UK BT Sports 8 Extra 4
+http://live.lordstreams.co:8080/sp-restream/f1yV8DojJ9/2333
+#EXTINF:-1,UK BT Sports 9 Extra 5
+http://live.lordstreams.co:8080/sp-restream/f1yV8DojJ9/2327
+
+
+
+
+#EXTINF:-1,USA Fubo Sports Network
+http://live.lordstreams.co:8080/sp-restream/f1yV8DojJ9/50908
+
+
 #EXTINF:-1 tvg-id="" tvg-name="US Conmebol 1" tvg-logo="" group-title="|US| APPLE+ SPORT",US Conmebol 1
 http://stv2030.com:2052/tabernas1/83819121/99325
 #EXTINF:-1 tvg-id="" tvg-name="US Conmebol 2" tvg-logo="" group-title="|US| APPLE+ SPORT",US Conmebol 2
