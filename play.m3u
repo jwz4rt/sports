@@ -69,6 +69,39 @@ http://ikitv.online/sports/optus10a00.m3u8
 
 
 
+#EXTINF:-1 tvg-id="" tvg-name="Indonesia: beIN Sports 1 ID" tvg-logo="" group-title="Indonesia | Channels ",Indonesia: beIN Sports 1 ID
+http://zxd.4k-crystal.top:8080/Aydar3030/Gwg2aI0z5d/72924
+#EXTINF:-1 tvg-id="" tvg-name="Indonesia: beIN Sports 2 ID" tvg-logo="" group-title="Indonesia | Channels ",Indonesia: beIN Sports 2 ID
+http://zxd.4k-crystal.top:8080/Aydar3030/Gwg2aI0z5d/72925
+#EXTINF:-1 tvg-id="" tvg-name="Indonesia: beIN Sports 3 ID" tvg-logo="" group-title="Indonesia | Channels ",Indonesia: beIN Sports 3 ID
+http://zxd.4k-crystal.top:8080/Aydar3030/Gwg2aI0z5d/72926
+
+#EXTINF:-1 group-title="ARENA SPORTS 🇭🇷" tvg-logo="https://www.thesportsdb.com/images/media/channel/tvlogo/hd6nx11643205736.png" , [ iKiTV ] -  ARENA SPORT 1 🇭🇷
+http://ikitv.online/eu/HR-arenasport01.m3u8
+#EXTINF:-1 group-title="ARENA SPORTS 🇭🇷" tvg-logo="https://www.thesportsdb.com/images/media/channel/tvlogo/do4eok1643205747.png" , [ iKiTV ] -  ARENA SPORT 2 🇭🇷
+http://ikitv.online/eu/HR-arenasport02.m3u8
+#EXTINF:-1 group-title="ARENA SPORTS 🇭🇷" tvg-logo="https://www.thesportsdb.com/images/media/channel/tvlogo/nnqoda1643205755.png" , [ iKiTV ] -  ARENA SPORT 3 🇭🇷
+http://ikitv.online/eu/HR-arenasport03.m3u8
+#EXTINF:-1 group-title="ARENA SPORTS 🇭🇷" tvg-logo="https://www.thesportsdb.com/images/media/channel/tvlogo/6oo0y71643205763.png" , [ iKiTV ] -  ARENA SPORT 4 🇭🇷
+http://ikitv.online/eu/HR-arenasport04.m3u8
+#EXTINF:-1 group-title="ARENA SPORTS 🇭🇷" tvg-logo="https://www.thesportsdb.com/images/media/channel/tvlogo/2kuqly1643205772.png" , [ iKiTV ] -  ARENA SPORT 5 🇭🇷
+http://ikitv.online/eu/HR-arenasport05.m3u8
+#EXTINF:-1 group-title="ARENA SPORTS 🇭🇷" tvg-logo="https://www.thesportsdb.com/images/media/channel/tvlogo/3htl2t1643205783.png" , [ iKiTV ] -  ARENA SPORT 6 🇭🇷
+http://ikitv.online/eu/HR-arenasport06.m3u8
+#EXTINF:-1 group-title="ARENA SPORTS 🇭🇷" tvg-logo="https://www.thesportsdb.com/images/media/channel/tvlogo/jec0d31643205801.png" , [ iKiTV ] -  ARENA SPORT 7 🇭🇷
+http://ikitv.online/eu/HR-arenasport07.m3u8
+#EXTINF:-1 group-title="ARENA SPORTS 🇭🇷" tvg-logo="https://www.thesportsdb.com/images/media/channel/tvlogo/3ch2k51643205817.png" , [ iKiTV ] -  ARENA SPORT 8 🇭🇷
+http://ikitv.online/eu/HR-arenasport08.m3u8
+#EXTINF:-1 group-title="ARENA SPORTS 🇭🇷" tvg-logo="https://www.thesportsdb.com/images/media/channel/tvlogo/zuhnap1643205837.png" , [ iKiTV ] -  ARENA SPORT 9 🇭🇷
+http://ikitv.online/eu/HR-arenasport09.m3u8
+#EXTINF:-1 group-title="ARENA SPORTS 🇭🇷" tvg-logo="https://www.thesportsdb.com/images/media/channel/tvlogo/wntrz71643205857.png" , [ iKiTV ] -  ARENA SPORT 10 🇭🇷
+http://ikitv.online/eu/HR-arenasport10.m3u8
+
+
+
+
+
+
 #EXTINF:-1 ,Polsat Sport Extra
 http://newlife3.wanicelife.com:8880/3ca7123n11/ewfr543ds/33433
 #EXTINF:-1 ,Polsat Sport
