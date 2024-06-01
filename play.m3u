@@ -69,16 +69,24 @@ http://ikitv.online/sports/optus10a00.m3u8
 
 
 
-#EXTINF:-1 ,Polsat Sport
-http://nasaiptv.com:8080/osn89089/678389tra/214849
-#EXTINF:-1 ,Polsat Sport News
-http://nasaiptv.com:8080/osn89089/678389tra/214847
 #EXTINF:-1 ,Polsat Sport Extra
-http://nasaiptv.com:8080/osn89089/678389tra/214845
-#EXTINF:-1 ,Canal+ Sport 1
-http://nasaiptv.com:8080/osn89089/678389tra/214843
-#EXTINF:-1 ,Canal+ Sport 2
-http://nasaiptv.com:8080/osn89089/678389tra/214842
+http://newlife3.wanicelife.com:8880/3ca7123n11/ewfr543ds/33433
+#EXTINF:-1 ,Polsat Sport
+http://newlife3.wanicelife.com:8880/3ca7123n11/ewfr543ds/33431
+#EXTINF:-1 ,TVP Sport
+http://newlife3.wanicelife.com:8880/3ca7123n11/ewfr543ds/33390
+#EXTINF:-1 ,Eleven Sports 1
+http://newlife3.wanicelife.com:8880/3ca7123n11/ewfr543ds/33360
+#EXTINF:-1 ,Eleven Sports 2
+http://newlife3.wanicelife.com:8880/3ca7123n11/ewfr543ds/33359
+#EXTINF:-1 ,Eleven Sports 3
+http://newlife3.wanicelife.com:8880/3ca7123n11/ewfr543ds/33358
+#EXTINF:-1 ,Eleven Sports 4
+http://newlife3.wanicelife.com:8880/3ca7123n11/ewfr543ds/33357
+
+
+
+
 
 #EXTINF:-1 tvg-id="" tvg-name="AE: Abu Dhabi Sports 1" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/1251e175cc39adad228a8ea9a180ae12.png" group-title="UAE ➾ Sports",AE: Abu Dhabi Sports 1
 http://xtv.ooo:8080/426117/4141616/354997
