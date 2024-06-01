@@ -1,31 +1,68 @@
 #EXTINF:-1,SPORTS: FUBO SPORT NETWORK
 http://likea8bitboss.xyz:80/CCollins/6392517048/743849
 
-#EXTINF:-1,AUS | Optus 1 HD
-http://b1g.ooo:80/2062/2062/35920
-#EXTINF:-1,AUS | Optus 2 HD
-http://b1g.ooo:80/2062/2062/35919
-#EXTINF:-1,AUS | Optus 3 HD
-http://b1g.ooo:80/2062/2062/35918
-#EXTINF:-1,AUS | Optus 4 HD
-http://b1g.ooo:80/2062/2062/35917
-#EXTINF:-1,AUS | Optus 5 HD
-http://b1g.ooo:80/2062/2062/35916
-#EXTINF:-1,AUS | Optus 6 HD
-http://b1g.ooo:80/2062/2062/35907
-#EXTINF:-1,AUS | Optus 7 HD
-http://b1g.ooo:80/2062/2062/35906
-#EXTINF:-1,AUS | Optus 8 HD
-http://b1g.ooo:80/2062/2062/35905
-#EXTINF:-1,AUS | Optus 9 HD
-http://b1g.ooo:80/2062/2062/35904
-#EXTINF:-1,AUS | Optus 10 HD
-http://b1g.ooo:80/2062/2062/35903
-#EXTINF:-1,AUS | Optus 11 HD
-http://b1g.ooo:80/2062/2062/35902
-#EXTINF:-1,AUS | Optus 12 HD
-http://b1g.ooo:80/2062/2062/7526
 
+
+
+#EXTINF:-1, OPTUS 1
+http://ikitv.online/sports/optus100.m3u8
+
+#EXTINF:-1, OPTUS 2
+http://ikitv.online/sports/optus200.m3u8
+
+#EXTINF:-1, OPTUS 3
+http://ikitv.online/sports/optus300.m3u8
+
+#EXTINF:-1, OPTUS 4
+http://ikitv.online/sports/optus400.m3u8
+
+#EXTINF:-1, OPTUS 5
+http://ikitv.online/sports/optus500.m3u8
+
+#EXTINF:-1, OPTUS 6
+http://ikitv.online/sports/optus600.m3u8
+
+#EXTINF:-1, OPTUS 7
+http://ikitv.online/sports/optus700.m3u8
+
+#EXTINF:-1, OPTUS 8
+http://ikitv.online/sports/optus800.m3u8
+
+#EXTINF:-1, OPTUS 9
+http://ikitv.online/sports/optus900.m3u8
+
+#EXTINF:-1, OPTUS 10
+http://ikitv.online/sports/optus1000.m3u8
+
+#EXTINF:-1, OPTUS 11
+http://ikitv.online/sports/optus1a00.m3u8
+
+#EXTINF:-1, OPTUS 12
+http://ikitv.online/sports/optus2a00.m3u8
+
+#EXTINF:-1, OPTUS 13
+http://ikitv.online/sports/optus3a00.m3u8
+
+#EXTINF:-1, OPTUS 14
+http://ikitv.online/sports/optus4a00.m3u8
+
+#EXTINF:-1, OPTUS 15
+http://ikitv.online/sports/optus5a00.m3u8
+
+#EXTINF:-1, OPTUS 16
+http://ikitv.online/sports/optus6a00.m3u8
+
+#EXTINF:-1, OPTUS 17
+http://ikitv.online/sports/optus7a00.m3u8
+
+#EXTINF:-1, OPTUS 18
+http://ikitv.online/sports/optus8a00.m3u8
+
+#EXTINF:-1, OPTUS 19
+http://ikitv.online/sports/optus9a00.m3u8
+
+#EXTINF:-1, OPTUS 20
+http://ikitv.online/sports/optus10a00.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="AE: Abu Dhabi Sports 1" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/1251e175cc39adad228a8ea9a180ae12.png" group-title="UAE ➾ Sports",AE: Abu Dhabi Sports 1
 http://xtv.ooo:8080/426117/4141616/354997
