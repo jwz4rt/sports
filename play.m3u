@@ -487,6 +487,61 @@ http://94.250.2.6:10600/play/wCbmzRH3H1
 
 
 
+
+
+#EXTINF:0 tvg-logo="xxx" group-title="xxx", 23
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 13) ExoPlayerLib/2.13.2
+http://103.127.96.91:25461/91@v2old/M0js5Y5vVA/23
+
+#EXTINF:0 tvg-logo="xxx" group-title="xxx", 22
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 13) ExoPlayerLib/2.13.2
+http://103.127.96.91:25461/91@v2old/M0js5Y5vVA/22
+
+#EXTINF:0 tvg-logo="xxx" group-title="xxx", 21
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 13) ExoPlayerLib/2.13.2
+http://103.127.96.91:25461/91@v2old/M0js5Y5vVA/21
+
+#EXTINF:0 tvg-logo="xxx" group-title="xxx", 20
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 13) ExoPlayerLib/2.13.2
+http://103.127.96.91:25461/91@v2old/M0js5Y5vVA/20
+
+#EXTINF:0 tvg-logo="xxx" group-title="xxx", 19
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 13) ExoPlayerLib/2.13.2
+http://103.127.96.91:25461/91@v2old/M0js5Y5vVA/19
+
+#EXTINF:0 tvg-logo="xxx" group-title="xxx", 18
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 13) ExoPlayerLib/2.13.2
+http://103.127.96.91:25461/91@v2old/M0js5Y5vVA/18
+
+#EXTINF:0 tvg-logo="xxx" group-title="xxx", 17
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 13) ExoPlayerLib/2.13.2
+http://103.127.96.91:25461/91@v2old/M0js5Y5vVA/17
+
+#EXTINF:0 tvg-logo="xxx" group-title="xxx", 16
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 13) ExoPlayerLib/2.13.2
+http://103.127.96.91:25461/91@v2old/M0js5Y5vVA/16
+
+#EXTINF:0 tvg-logo="xxx" group-title="xxx", 15
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 13) ExoPlayerLib/2.13.2
+http://103.127.96.91:25461/91@v2old/M0js5Y5vVA/15
+
+#EXTINF:0 tvg-logo="xxx" group-title="xxx", 14
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 13) ExoPlayerLib/2.13.2
+http://103.127.96.91:25461/91@v2old/M0js5Y5vVA/14
+
+#EXTINF:0 tvg-logo="xxx" group-title="xxx", 13
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 13) ExoPlayerLib/2.13.2
+http://103.127.96.91:25461/91@v2old/M0js5Y5vVA/13
+
+#EXTINF:0 tvg-logo="xxx" group-title="xxx", 12
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 13) ExoPlayerLib/2.13.2
+http://103.127.96.91:25461/91@v2old/M0js5Y5vVA/12
+
+
+
+
+
+
 #EXTINF:-1 group-title="*SPORT TV",Tubi_TV-Fubo Sports Network (GEO)
 https://csm-e-eb.csm.tubi.video/csm/extlive/tubiprd01,Cloudfront-Fubo.m3u8
 #EXTINF:-1 group-title="*SPORT TV",Tubi_TV-Womens Sports Network
