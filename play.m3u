@@ -5,6 +5,54 @@ http://likea8bitboss.xyz:80/CCollins/6392517048/743849
 http://zxd.4k-crystal.top:8080/Aydar3030/Gwg2aI0z5d/72999
 
 
+#EXTINF:0 tvg-logo="https://i.ibb.co/SyXzvhs/Moji-hometv.jpg" group-title="CHANNEL | INDONESIA", a
+https://api.sedot-cw.my.id/sc/vidio/play.m3u8?id=206&type=hls
+
+
+#EXTINF:0 tvg-logo="https://i.ibb.co/SyXzvhs/Moji-hometv.jpg" group-title="CHANNEL | INDONESIA", b
+https://api.sedot-cw.my.id/sc/vidio/play.m3u8?id=207&type=hls
+
+
+#EXTINF:0 tvg-logo="https://i.ibb.co/SyXzvhs/Moji-hometv.jpg" group-title="CHANNEL | INDONESIA", c
+https://api.sedot-cw.my.id/sc/vidio/play.m3u8?id=208&type=hls
+
+#EXTINF:0 tvg-logo="https://i.ibb.co/SyXzvhs/Moji-hometv.jpg" group-title="CHANNEL | INDONESIA", a
+https://api.sedot-cw.my.id/sc/vidio/play.m3u8?id=209&type=hls
+
+
+#EXTINF:0 tvg-logo="https://i.ibb.co/SyXzvhs/Moji-hometv.jpg" group-title="CHANNEL | INDONESIA", b
+https://api.sedot-cw.my.id/sc/vidio/play.m3u8?id=210&type=hls
+
+
+#EXTINF:0 tvg-logo="https://i.ibb.co/SyXzvhs/Moji-hometv.jpg" group-title="CHANNEL | INDONESIA", c
+https://api.sedot-cw.my.id/sc/vidio/play.m3u8?id=205&type=hls
+
+#EXTINF:0 tvg-logo="https://i.ibb.co/SyXzvhs/Moji-hometv.jpg" group-title="CHANNEL | INDONESIA", a
+https://api.sedot-cw.my.id/sc/vidio/play.m3u8?id=204&type=hls
+
+
+#EXTINF:0 tvg-logo="https://i.ibb.co/SyXzvhs/Moji-hometv.jpg" group-title="CHANNEL | INDONESIA", b
+https://api.sedot-cw.my.id/sc/vidio/play.m3u8?id=203&type=hls
+
+
+#EXTINF:0 tvg-logo="https://i.ibb.co/SyXzvhs/Moji-hometv.jpg" group-title="CHANNEL | INDONESIA", c
+https://api.sedot-cw.my.id/sc/vidio/play.m3u8?id=202&type=hls
+
+#EXTINF:0 tvg-logo="https://i.ibb.co/SyXzvhs/Moji-hometv.jpg" group-title="CHANNEL | INDONESIA", a
+https://api.sedot-cw.my.id/sc/vidio/play.m3u8?id=201&type=hls
+
+
+#EXTINF:0 tvg-logo="https://i.ibb.co/SyXzvhs/Moji-hometv.jpg" group-title="CHANNEL | INDONESIA", b
+https://api.sedot-cw.my.id/sc/vidio/play.m3u8?id=200&type=hls
+
+
+#EXTINF:0 tvg-logo="https://i.ibb.co/SyXzvhs/Moji-hometv.jpg" group-title="CHANNEL | INDONESIA", c
+https://api.sedot-cw.my.id/sc/vidio/play.m3u8?id=199&type=hls
+
+
+
+
+
 #EXTINF:-1, OPTUS 1
 http://ikitv.online/sports/optus100.m3u8
 
