@@ -1,23 +1,38 @@
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="(US) ESPN Plus 1 (D)" tvg-name="(US) ESPN Plus 1 (D)" tvg-logo="" group-title="US | Sports",(US) ESPN Plus 1 (D)
-http://b1g.ooo:80/Grandad123/Grandad123/625353
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="(US) ESPN Plus 2 (D)" tvg-name="(US) ESPN Plus 2 (D)" tvg-logo="" group-title="US | Sports",(US) ESPN Plus 2 (D)
-http://b1g.ooo:80/Grandad123/Grandad123/625354
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="(US) ESPN Plus 3 (D)" tvg-name="(US) ESPN Plus 3 (D)" tvg-logo="" group-title="US | Sports",(US) ESPN Plus 3 (D)
-http://b1g.ooo:80/Grandad123/Grandad123/625355
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="(US) ESPN Plus 4 (D)" tvg-name="(US) ESPN Plus 4 (D)" tvg-logo="" group-title="US | Sports",(US) ESPN Plus 4 (D)
-http://b1g.ooo:80/Grandad123/Grandad123/625356
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="EPG.ESPN05" tvg-name="(US) ESPN Plus 5 (D)" tvg-logo="" group-title="US | Sports",(US) ESPN Plus 5 (D)
-http://b1g.ooo:80/Grandad123/Grandad123/625357
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="(US) ESPN Plus 6 (D)" tvg-name="(US) ESPN Plus 6 (D)" tvg-logo="" group-title="US | Sports",(US) ESPN Plus 6 (D)
-http://b1g.ooo:80/Grandad123/Grandad123/625358
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="(US) ESPN Plus 7 (D)" tvg-name="(US) ESPN Plus 7 (D)" tvg-logo="" group-title="US | Sports",(US) ESPN Plus 7 (D)
-http://b1g.ooo:80/Grandad123/Grandad123/625359
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="(US) ESPN Plus 8 (D)" tvg-name="(US) ESPN Plus 8 (D)" tvg-logo="" group-title="US | Sports",(US) ESPN Plus 8 (D)
-http://b1g.ooo:80/Grandad123/Grandad123/625360
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="(US) ESPN Plus 9 (D)" tvg-name="(US) ESPN Plus 9 (D)" tvg-logo="" group-title="US | Sports",(US) ESPN Plus 9 (D)
-http://b1g.ooo:80/Grandad123/Grandad123/625361
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="(US) ESPN Plus 10 (D)" tvg-name="(US) ESPN Plus 10 (D)" tvg-logo="" group-title="US | Sports",(US) ESPN Plus 10 (D)
-http://b1g.ooo:80/Grandad123/Grandad123/625362
+#EXTINF:-1,IT: SKY SPORT 251 FHD
+http://819584229395850944.ofk0601.xyz:80/play/EJBPA4GFNE/SJTmtAdkEwu/850944.ts
+#EXTINF:-1,IT: SKY SPORT 252 FHD
+http://819584229395850945.ofk0601.xyz:80/play/EJBPA4GFNE/SJTmtAdkEwu/850945.ts
+#EXTINF:-1,IT: SKY SPORT 253 FHD
+http://819584229395850946.ofk0601.xyz:80/play/EJBPA4GFNE/SJTmtAdkEwu/850946.ts
+#EXTINF:-1,IT: SKY SPORT 254 FHD
+http://819584229395850947.ofk0601.xyz:80/play/EJBPA4GFNE/SJTmtAdkEwu/850947.ts
+#EXTINF:-1,IT: SKY SPORT 255 FHD
+http://819584229395850948.ofk0601.xyz:80/play/EJBPA4GFNE/SJTmtAdkEwu/850948.ts
+#EXTINF:-1,IT: SKY SPORT 256 FHD
+http://819584229395850949.ofk0601.xyz:80/play/EJBPA4GFNE/SJTmtAdkEwu/850949.ts
+#EXTINF:-1,IT: SKY SPORT 257 FHD
+http://819584229395850950.ofk0601.xyz:80/play/EJBPA4GFNE/SJTmtAdkEwu/850950.ts
+#EXTINF:-1,IT: SKY SPORT 258 SD
+http://819584229395850951.ofk0601.xyz:80/play/EJBPA4GFNE/SJTmtAdkEwu/850951.ts
+#EXTINF:-1,IT: SKY SPORT 259 SD
+http://819584229395850952.ofk0601.xyz:80/play/EJBPA4GFNE/SJTmtAdkEwu/850952.ts
+#EXTINF:-1,IT: SKY SPORT ARENA FHD
+http://819584229395850953.ofk0601.xyz:80/play/EJBPA4GFNE/SJTmtAdkEwu/850953.ts
+#EXTINF:-1,IT: SKY SPORT CALCIO HD
+http://819584229395850954.ofk0601.xyz:80/play/EJBPA4GFNE/SJTmtAdkEwu/850954.ts
+#EXTINF:-1,IT: SKY SPORT GOLF HD
+http://819584229395850956.ofk0601.xyz:80/play/EJBPA4GFNE/SJTmtAdkEwu/850956.ts
+#EXTINF:-1,IT: SKY SPORT MAX FHD
+http://819584229395850957.ofk0601.xyz:80/play/EJBPA4GFNE/SJTmtAdkEwu/850957.ts
+#EXTINF:-1,IT: SKY SPORT MAX HD
+http://819584229395850958.ofk0601.xyz:80/play/EJBPA4GFNE/SJTmtAdkEwu/850958.ts
+#EXTINF:-1,IT: SKY SPORT MOTOGP HD
+http://819584229395850959.ofk0601.xyz:80/play/EJBPA4GFNE/SJTmtAdkEwu/850959.ts
+#EXTINF:-1,IT: SKY SPORT NBA HD
+http://819584229395850960.ofk0601.xyz:80/play/EJBPA4GFNE/SJTmtAdkEwu/850960.ts
+#EXTINF:-1,IT: SKY SPORT TENNIS FHD
+http://819584229395850962.ofk0601.xyz:80/play/EJBPA4GFNE/SJTmtAdkEwu/850962.ts
+
 
 
 
