@@ -1,52 +1,12 @@
-#EXTINF:-1 group-title="SHAREEXT@THAiLandTv" tvg-id="truesports1.th" tvg-logo="https://cms.dmpcdn.com/livetv/2022/01/12/27f34e20-7374-11ec-b576-afbb0a1303ef_webp_320.png",True.Sports 1 
-#EXTVLCOPT:http-referrer=https://www.doomovie-hd.com
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000
-https://sport.livedoomovies.com:4432/02_2sporthd1_720p/chunklist.m3u8
-
-#EXTINF:-1 group-title="SHAREEXT@THAiLandTv" tvg-id="truesports2.th" tvg-logo="https://cms.dmpcdn.com/livetv/2019/10/28/8c23b890-f972-11e9-9d60-a7e46cdf4330_320.png",True.Sports 2 
-#EXTVLCOPT:http-referrer=https://www.doomovie-hd.com
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000
-https://sport.livedoomovies.com:4432/02_2sporthd2_720p/chunklist.m3u8
-
-#EXTINF:-1 group-title="SHAREEXT@THAiLandTv" tvg-id="truesports3.th" tvg-logo="https://cms.dmpcdn.com/livetv/2022/01/12/28a5ae30-7374-11ec-91d2-797a50c5a656_webp_320.webp",True.Sports 3 
-#EXTVLCOPT:http-referrer=https://www.doomovie-hd.com
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000
-https://sport.livedoomovies.com:4432/02_2sporthd3_720p/chunklist.m3u8
-
-#EXTINF:-1 group-title="SHAREEXT@THAiLandTv" tvg-id="truesports4.th" tvg-logo="https://cms.dmpcdn.com/livetv/2022/01/12/293236c0-7374-11ec-b576-afbb0a1303ef_webp_original.png",True.Sports 4 
-#EXTVLCOPT:http-referrer=https://www.doomovie-hd.com
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000
-https://sport.livedoomovies.com:4432/02_2sporthd4_720p/chunklist.m3u8
-
-#EXTINF:-1 group-title="SHAREEXT@THAiLandTv" tvg-id="truesports5.th" tvg-logo="https://cms.dmpcdn.com/livetv/2019/10/28/c275f890-f972-11e9-a1fc-5dda12c8d080_320.png",True.Sports 5 
-#EXTVLCOPT:http-referrer=https://www.doomovie-hd.com
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000
-https://sport.livedoomovies.com:4432/02_sport5_480p/chunklist.m3u8
-
-#EXTINF:-1 tvg-id="TrueSport7.th" tvg-name="TrueSport7" tvg-logo="https://images.livebox.co/images/tv/png/sd-tsport7.png" group-title="SHAREEXT@THAiLandTv",True Sports 7 
-#EXTVLCOPT:http-referrer=https://www.doomovie-hd.com
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000
-https://sport.livedoomovies.com:4432/02_sport7_480p/chunklist.m3u8
-
-
-
-#EXTINF:-1  tvg-logo="https://i.ibb.co/bNxxFJh/True-Sports-shareext.jpg" group-title="ShareExt@Relax", [TH]True-PremierLeague 1HD
-http://gmlive.ddns.net:5000/kun5g/kun5g2024/129
-#EXTINF:-1  tvg-logo="https://i.ibb.co/bNxxFJh/True-Sports-shareext.jpg" group-title="ShareExt@Relax", [TH]True-PremierLeague 2HD
-http://gmlive.ddns.net:5000/kun5g/kun5g2024/130
-#EXTINF:-1  tvg-logo="https://i.ibb.co/bNxxFJh/True-Sports-shareext.jpg" group-title="ShareExt@Relax", [TH]True-PremierLeague 3HD
-http://gmlive.ddns.net:5000/kun5g/kun5g2024/102
-#EXTINF:-1  tvg-logo="https://i.ibb.co/bNxxFJh/True-Sports-shareext.jpg" group-title="ShareExt@Relax", [TH]True-PremierLeague 4HD
-http://gmlive.ddns.net:5000/kun5g/kun5g2024/101
-#EXTINF:-1  tvg-logo="https://i.ibb.co/bNxxFJh/True-Sports-shareext.jpg" group-title="ShareExt@Relax", [TH]TruePremier 5HD 
-http://gmlive.ddns.net:5000/kun5g/kun5g2024/1
-#EXTINF:-1  tvg-logo="https://i.ibb.co/bNxxFJh/True-Sports-shareext.jpg" group-title="ShareExt@Relax", [TH]True-SPORT HD
-http://gmlive.ddns.net:5000/kun5g/kun5g2024/96
-#EXTINF:-1  tvg-logo="https://i.ibb.co/bNxxFJh/True-Sports-shareext.jpg" group-title="ShareExt@Relax", [TH]True-SPORT 2HD
-http://gmlive.ddns.net:5000/kun5g/kun5g2024/97
-#EXTINF:-1  tvg-logo="https://i.ibb.co/bNxxFJh/True-Sports-shareext.jpg" group-title="ShareExt@Relax", [TH]True-SPORT 3HD
-http://gmlive.ddns.net:5000/kun5g/kun5g2024/98
-#EXTINF:-1  tvg-logo="https://i.ibb.co/bNxxFJh/True-Sports-shareext.jpg" group-title="ShareExt@Relax", [TH]True-SPORT 5SD
-http://gmlive.ddns.net:5000/kun5g/kun5g2024/99
-#EXTINF:-1  tvg-logo="https://i.ibb.co/bNxxFJh/True-Sports-shareext.jpg" group-title="ShareExt@Relax", [TH]True-SPORT 7SD
-http://gmlive.ddns.net:5000/kun5g/kun5g2024/100
+#EXTINF:-1 tvg-id="foxsports1.us" tvg-name="USA: Fox Sports 1" tvg-logo="https://turbostarz.xyz/logos/tv-master/countries/united-states/fox-sports-1-us.png" group-title="USA | Sports Networks",USA: Fox Sports 1
+http://ragnarokserve.com:847/LEQaZAJhJT/7kSF6UWyfHwe/2908
+#EXTINF:-1 tvg-id="foxsports2.us" tvg-name="USA: Fox Sports 2" tvg-logo="https://turbostarz.xyz/logos/tv-master/countries/united-states/fox-sports-2-us.png" group-title="USA | Sports Networks",USA: Fox Sports 2
+http://ragnarokserve.com:847/LEQaZAJhJT/7kSF6UWyfHwe/2909
+#EXTINF:-1 tvg-id="" tvg-name="MX: TUDN" tvg-logo="" group-title="Latino | Sports",MX: TUDN
+http://ragnarokserve.com:847/LEQaZAJhJT/7kSF6UWyfHwe/20544
+#EXTINF:-1 tvg-id="" tvg-name="MX: FOX SPORTS 1" tvg-logo="" group-title="Latino | Sports",MX: FOX SPORTS 1
+http://ragnarokserve.com:847/LEQaZAJhJT/7kSF6UWyfHwe/20545
+#EXTINF:-1 tvg-id="" tvg-name="MX: FOX SPORTS 2" tvg-logo="" group-title="Latino | Sports",MX: FOX SPORTS 2
+http://ragnarokserve.com:847/LEQaZAJhJT/7kSF6UWyfHwe/20546
+#EXTINF:-1 tvg-id="" tvg-name="MX: FOX SPORTS 3" tvg-logo="" group-title="Latino | Sports",MX: FOX SPORTS 3
+http://ragnarokserve.com:847/LEQaZAJhJT/7kSF6UWyfHwe/20547
