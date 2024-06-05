@@ -1112,6 +1112,17 @@ https://cdn08jtedge.indihometv.com/dassdvr/133/fightsport/manifest.mpd
 
 
 
+#EXTINF:-1 tvg-id="" tvg-name="MY: Astro Supersport 1" tvg-logo="https://clipground.com/images/asia-png-14.png" group-title="SHAREEXT@Television/MY/ASTRO", Supersport 1
+http://toh-users.xyz:8080/42204120/16250164/856822
+#EXTINF:-1 tvg-id="" tvg-name="MY: Astro Supersport 2" tvg-logo="https://clipground.com/images/asia-png-14.png" group-title="SHAREEXT@Television/MY/ASTRO", Supersport 2
+http://toh-users.xyz:8080/42204120/16250164/856824
+#EXTINF:-1 tvg-id="" tvg-name="MY: Astro Supersport 3" tvg-logo="https://clipground.com/images/asia-png-14.png" group-title="SHAREEXT@Television/MY/ASTRO", Supersport 3
+http://toh-users.xyz:8080/42204120/16250164/856827
+#EXTINF:-1 tvg-id="" tvg-name="MY: Astro Supersport 4" tvg-logo="https://clipground.com/images/asia-png-14.png" group-title="SHAREEXT@Television/MY/ASTRO", Supersport 4
+http://toh-users.xyz:8080/42204120/16250164/856830
+
+
+
 
 
 
