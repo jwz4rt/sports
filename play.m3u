@@ -1,26 +1,4 @@
-  #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ikitv/project/main/20240525_033021.png" group-title="BEIN SPORTS",    Bein Sport 1 HD 
-hhttp://mohdtv.com:8880/ALLChannels18742e81ddf4/46972742/3159
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ikitv/project/main/20240525_033021.png" group-title="BEIN SPORTS",    Bein Sport HD
-hhttp://mohdtv.com:8880/ALLChannels18742e81ddf4/46972742/30178
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ikitv/project/main/20240525_033021.png" group-title="BEIN SPORTS",    FHD Bein Sport 1
-hhttp://mohdtv.com:8880/ALLChannels18742e81ddf4/46972742/2830
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ikitv/project/main/20240525_033021.png" group-title="BEIN SPORTS",     FHD Bein Sport 2
-hhttp://mohdtv.com:8880/ALLChannels18742e81ddf4/46972742/2829
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ikitv/project/main/20240525_033021.png" group-title="BEIN SPORTS",     FHD Bein Sport 3
-hhttp://mohdtv.com:8880/ALLChannels18742e81ddf4/46972742/2828
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ikitv/project/main/20240525_033021.png" group-title="BEIN SPORTS",    Bein Sport 3 HD 
-hhttp://mohdtv.com:8880/ALLChannels18742e81ddf4/46972742/2123
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ikitv/project/main/20240525_033021.png" group-title="BEIN SPORTS",    Bein Sport 1 HD
-hhttp://mohdtv.com:8880/ALLChannels18742e81ddf4/46972742/61074
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ikitv/project/main/20240525_033021.png" group-title="BEIN SPORTS",    Bein Sport 2 HD
-hhttp://mohdtv.com:8880/ALLChannels18742e81ddf4/46972742/61075
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ikitv/project/main/20240525_033021.png" group-title="BEIN SPORTS",    Bein Sport 3 HD
-hhttp://mohdtv.com:8880/ALLChannels18742e81ddf4/46972742/61076
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ikitv/project/main/20240525_033021.png" group-title="BEIN SPORTS",    Bein Sport 1 HD
-hhttp://mohdtv.com:8880/ALLChannels18742e81ddf4/46972742/71104
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ikitv/project/main/20240525_033021.png" group-title="BEIN SPORTS",    Bein Sport 2 HD
-hhttp://mohdtv.com:8880/ALLChannels18742e81ddf4/46972742/71118
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ikitv/project/main/20240525_033021.png" group-title="BEIN SPORTS",    Bein Sport 3 HD
-hhttp://mohdtv.com:8880/ALLChannels18742e81ddf4/46972742/71101
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ikitv/project/main/20240525_033021.png" group-title="BEIN SPORTS",    Bein Sport 3 HD
-http://mohdtv.com:8880/ALLChannels18742e81ddf4/46972742/26581
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ikitv/project/main/20240525_033021.png" group-title="BEIN SPORTS",  • 🇺🇲 Bein Sport 1 HD 
+http://ikitv.online/@bein/beinUS1.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ikitv/project/main/20240525_033021.png" group-title="BEIN SPORTS", • 🇨🇦 Bein Sport HD
+http://ikitv.online/@bein/beinCA1.m3u8
