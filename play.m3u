@@ -8,3 +8,11 @@ http://mohdtv.com:8880/voby5006/280cde00593e52837358/59218
 http://mohdtv.com:8880/voby5006/280cde00593e52837358/71020
 #EXTINF:-1 tvg-id="" tvg-name="MY043:ASTRO ASSP4 HD" tvg-logo="" group-title="Malaysia",MY043:ASTRO ASSP4 HD
 http://mohdtv.com:8880/voby5006/280cde00593e52837358/59217
+
+
+#EXTINF:-1,PT: SPORT TV 1 FHD
+http://fortv.cc:8080/JeanneGreg/Avery/167742
+#EXTINF:-1,PT: SPORT TV 2 HD
+http://fortv.cc:8080/JeanneGreg/Avery/167743
+#EXTINF:-1,PT: SPORT TV 3 HD
+http://fortv.cc:8080/JeanneGreg/Avery/167744
