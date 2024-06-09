@@ -140,3 +140,30 @@ http://defaultgen.com:3050/sjimsimmons@yahoo.com/GyZGdMYu4B/376371
 http://defaultgen.com:3050/sjimsimmons@yahoo.com/GyZGdMYu4B/376372
 #EXTINF:-1 tvg-id="OptusSport12.au" tvg-name="AU Optus 12 HD (D)" tvg-logo="https://www.canstarblue.com.au/wp-content/uploads/2019/06/optus-sport-logo.png" group-title="OPTUS",AU Optus 12 HD (D)
 http://defaultgen.com:3050/sjimsimmons@yahoo.com/GyZGdMYu4B/376373
+
+
+
+
+
+#EXTINF:-1 tvg-logo="https://cdn.freelogovectors.net/wp-content/uploads/2019/10/bein-sports-logo.png" group-title="BEIN SPORTS",USA Bein Sports 1 
+http://supersonictv.live:8080/699943/866448/22187
+#EXTINF:-1 tvg-logo="https://cdn.freelogovectors.net/wp-content/uploads/2019/10/bein-sports-logo.png" group-title="BEIN SPORTS",USA BeIN Sports 2
+http://supersonictv.live:8080/699943/866448/22189
+#EXTINF:-1 tvg-logo="https://cdn.freelogovectors.net/wp-content/uploads/2019/10/bein-sports-logo.png" group-title="BEIN SPORTS",USA BeIN Sports 4
+http://supersonictv.live:8080/699943/866448/22190
+#EXTINF:-1 tvg-logo="https://cdn.freelogovectors.net/wp-content/uploads/2019/10/bein-sports-logo.png" group-title="BEIN SPORTS",USA BeIN Sports 5
+http://supersonictv.live:8080/699943/866448/22191
+#EXTINF:-1 tvg-logo="https://cdn.freelogovectors.net/wp-content/uploads/2019/10/bein-sports-logo.png" group-title="BEIN SPORTS",USA BeIN Sports 6
+http://supersonictv.live:8080/699943/866448/22192
+#EXTINF:-1 tvg-logo="https://cdn.freelogovectors.net/wp-content/uploads/2019/10/bein-sports-logo.png" group-title="BEIN SPORTS",USA BeIN Sports 7
+http://supersonictv.live:8080/699943/866448/22193
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c5/BeIN_SPORTS_En_Espa%C3%B1ol_logo_2017.jpg" group-title="BEIN SPORTS",USA Bein Sports N Espanol UHD
+http://supersonictv.live:8080/699943/866448/22195
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-dap7C2FgLvs/WYN1uDz4VqI/AAAAAAAAEYE/HD1j1CV1fIQmZPyd4GYwKafoVXDy1ifngCLcBGAs/s1600/beIN-Sports-LaLiga.jpg" group-title="BEIN SPORTS",USA BeIN Sports LaLiga
+http://supersonictv.live:8080/699943/866448/22196
+#EXTINF:-1 tvg-logo="https://cdn.freelogovectors.net/wp-content/uploads/2019/10/bein-sports-logo.png" group-title="BEIN SPORTS",USA Latin BEIN Sports Latin
+http://supersonictv.live:8080/699943/866448/22197
+#EXTINF:-1 tvg-logo="https://d24j9r7lck9cin.cloudfront.net/l/o/6/6589.1491349382.png" group-title="BEIN SPORTS",AU beIN Sports 1
+http://supersonictv.live:8080/699943/866448/82691
+#EXTINF:-1 tvg-logo="https://d24j9r7lck9cin.cloudfront.net/l/f/6/6591.1491350441.png" group-title="BEIN SPORTS",AU beIN Sports 2
+http://supersonictv.live:8080/699943/866448/82692
