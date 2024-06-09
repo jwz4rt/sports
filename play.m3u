@@ -1,41 +1,20 @@
-#EXTINF:-1 tvg-id="" tvg-name="MY040:ASTRO ASSP HD" tvg-logo="" group-title="Malaysia",MY040:ASTRO ASSP HD
-http://mohdtv.com:8880/voby5006/280cde00593e52837358/59220
-#EXTINF:-1 tvg-id="" tvg-name="MY041:ASTRO ASSP2 HD" tvg-logo="" group-title="Malaysia",MY041:ASTRO ASSP2 HD
-http://mohdtv.com:8880/voby5006/280cde00593e52837358/59219
-#EXTINF:-1 tvg-id="" tvg-name="MY042:ASTRO ASSP3 HD" tvg-logo="" group-title="Malaysia",MY042:ASTRO ASSP3 HD
-http://mohdtv.com:8880/voby5006/280cde00593e52837358/59218
-#EXTINF:-1 tvg-id="" tvg-name="MY042:Ria" tvg-logo="" group-title="Malaysia",MY042:Ria
-http://mohdtv.com:8880/voby5006/280cde00593e52837358/71020
-#EXTINF:-1 tvg-id="" tvg-name="MY043:ASTRO ASSP4 HD" tvg-logo="" group-title="Malaysia",MY043:ASTRO ASSP4 HD
-http://mohdtv.com:8880/voby5006/280cde00593e52837358/59217
-
-
-#EXTINF:-1,PT: SPORT TV 1 FHD
-http://fortv.cc:8080/JeanneGreg/Avery/167742
-#EXTINF:-1,PT: SPORT TV 2 HD
-http://fortv.cc:8080/JeanneGreg/Avery/167743
-#EXTINF:-1,PT: SPORT TV 3 HD
-http://fortv.cc:8080/JeanneGreg/Avery/167744
-
-
-
-#EXTINF:-1,MY: Astro SuperSport
-http://013tv.com:8080/fullserver2024/TACNrkSxPKnRL9BH6VEDZf/146068
-#EXTINF:-1,MY: Astro SuperSport 2
-http://013tv.com:8080/fullserver2024/TACNrkSxPKnRL9BH6VEDZf/157556
-#EXTINF:-1,MY: Astro SuperSport 3
-http://013tv.com:8080/fullserver2024/TACNrkSxPKnRL9BH6VEDZf/157557
-#EXTINF:-1,MY: Astro SuperSport 4
-http://013tv.com:8080/fullserver2024/TACNrkSxPKnRL9BH6VEDZf/157558
-
-
-#EXTINF:-1,MY040:ASTRO ASSP HD
-http://mudy02.cularu.com:8880/12mmx010011/69774664/59220
-#EXTINF:-1,MY041:ASTRO ASSP2 HD
-http://mudy02.cularu.com:8880/12mmx010011/69774664/59219
-#EXTINF:-1,MY042:ASTRO ASSP3 HD
-http://mudy02.cularu.com:8880/12mmx010011/69774664/59218
-#EXTINF:-1,MY042:Ria
-http://mudy02.cularu.com:8880/12mmx010011/69774664/71020
-#EXTINF:-1,MY043:ASTRO ASSP4 HD
-http://mudy02.cularu.com:8880/12mmx010011/69774664/59217
+#EXTINF:-1 tvg-id="" tvg-name="NZ: SKY Sport SELECT" tvg-logo="https://static.sky.co.NZ:/sky/channel-logos/051_sky_sport_news.png" group-title="NZS SPORTS",NZ: SKY Sport SELECT
+http://defaultgen.com:3050/tamekanicole@yahoo.com/pCZEByKHBA/560112
+#EXTINF:-1 tvg-id="" tvg-name="NZ: SKY Sport 1" tvg-logo="https://static.sky.co.NZ:/sky/channel-logos/051_sky_sport_1_logo_stack_rgb.png" group-title="NZS SPORTS",NZ: SKY Sport 1
+http://defaultgen.com:3050/tamekanicole@yahoo.com/pCZEByKHBA/560121
+#EXTINF:-1 tvg-id="" tvg-name="NZ: SKY Sport 2" tvg-logo="https://static.sky.co.NZ:/sky/channel-logos/051_sky_sport_2_logo_stack_rgb.png" group-title="NZS SPORTS",NZ: SKY Sport 2
+http://defaultgen.com:3050/tamekanicole@yahoo.com/pCZEByKHBA/560120
+#EXTINF:-1 tvg-id="" tvg-name="NZ: SKY Sport 3" tvg-logo="https://static.sky.co.NZ:/sky/channel-logos/051_sky_sport_3_logo_stack_rgb.png" group-title="NZS SPORTS",NZ: SKY Sport 3
+http://defaultgen.com:3050/tamekanicole@yahoo.com/pCZEByKHBA/560119
+#EXTINF:-1 tvg-id="" tvg-name="NZ: SKY Sport 4" tvg-logo="https://static.sky.co.NZ:/sky/channel-logos/051_sky_sport_4_logo_stack_rgb.png" group-title="NZS SPORTS",NZ: SKY Sport 4
+http://defaultgen.com:3050/tamekanicole@yahoo.com/pCZEByKHBA/560118
+#EXTINF:-1 tvg-id="" tvg-name="NZ: SKY Sport 5" tvg-logo="https://static.sky.co.NZ:/sky/channel-logos/051_sky_sport_5_logo_stack_rgb.png" group-title="NZS SPORTS",NZ: SKY Sport 5
+http://defaultgen.com:3050/tamekanicole@yahoo.com/pCZEByKHBA/560117
+#EXTINF:-1 tvg-id="" tvg-name="NZ: SKY Sport 6" tvg-logo="https://static.sky.co.NZ:/sky/channel-logos/051_sky_sport_6_logo_stack_rgb.png" group-title="NZS SPORTS",NZ: SKY Sport 6
+http://defaultgen.com:3050/tamekanicole@yahoo.com/pCZEByKHBA/560116
+#EXTINF:-1 tvg-id="" tvg-name="NZ: SKY Sport 7" tvg-logo="https://static.sky.co.NZ:/sky/channel-logos/051_sky_sport_7_logo_stack_rgb.png" group-title="NZS SPORTS",NZ: SKY Sport 7
+http://defaultgen.com:3050/tamekanicole@yahoo.com/pCZEByKHBA/560115
+#EXTINF:-1 tvg-id="" tvg-name="NZ: SKY Sport 8" tvg-logo="https://static.sky.co.NZ:/sky/channel-logos/051_sky_sport_8_logo_stack_rgb.png" group-title="NZS SPORTS",NZ: SKY Sport 8
+http://defaultgen.com:3050/tamekanicole@yahoo.com/pCZEByKHBA/560114
+#EXTINF:-1 tvg-id="" tvg-name="NZ: SKY Sport 9" tvg-logo="https://static.sky.co.NZ:/sky/channel-logos/051_sky_sport_9_logo_stack_rgb.png" group-title="NZS SPORTS",NZ: SKY Sport 9
+http://defaultgen.com:3050/tamekanicole@yahoo.com/pCZEByKHBA/560113
