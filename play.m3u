@@ -6,3 +6,11 @@ http://game.shiuk.re:80/104190/181188/948.ts
 http://game.shiuk.re:80/104190/181188/949.ts
 #EXTINF:-1 tvg-id="" tvg-name="Nsports 04" tvg-logo="https://www.vendas.nsports.com.br/wp-content/uploads/2021/09/Logo-Branco-1.png" group-title="CANAIS || PPV",Nsports 04
 http://game.shiuk.re:80/104190/181188/950.ts
+
+
+#EXTINF:-1 tvg-id="" tvg-name="TNT Sports BR 01" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/TNT_Sports_2021_logo.svg/2560px-TNT_Sports_2021_logo.svg.png" group-title="CANAIS || PPV",TNT Sports BR 01
+http://game.shiuk.re:80/104190/181188/980.ts
+#EXTINF:-1 tvg-id="" tvg-name="TNT Sports BR 02" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/TNT_Sports_2021_logo.svg/2560px-TNT_Sports_2021_logo.svg.png" group-title="CANAIS || PPV",TNT Sports BR 02
+http://game.shiuk.re:80/104190/181188/981.ts
+#EXTINF:-1 tvg-id="" tvg-name="TNT Sports BR 03" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/TNT_Sports_2021_logo.svg/2560px-TNT_Sports_2021_logo.svg.png" group-title="CANAIS || PPV",TNT Sports BR 03
+http://game.shiuk.re:80/104190/181188/982.ts
