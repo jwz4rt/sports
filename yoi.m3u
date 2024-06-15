@@ -22,3 +22,15 @@ http://filex.tv:8080/shakeelmirza/4110440/290788
 http://filex.tv:8080/shakeelmirza/4110440/290789
 #EXTINF:-1 tvg-id="" tvg-name="CA: CTV Toronto" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-04/4473c97c2f845834909b6dfbdae68958.png" group-title="CANADA",CA: CTV Toronto
 http://filex.tv:8080/shakeelmirza/4110440/290790
+
+
+#EXTINF:-1 tvg-id="tsn1.ca" tvg-name="CA-S: TSN 1" tvg-logo="http://turbostarz.xyz/logos/tv-master/countries/canada/tsn-1-hd-ca.png" group-title="Canada | Sports Networks",CA-S: TSN 1
+http://ragnarokserve.com:847/RedBaron1/123987159/2291
+#EXTINF:-1 tvg-id="tsn2.ca" tvg-name="CA-S: TSN 2" tvg-logo="http://turbostarz.xyz/logos/tv-master/countries/canada/tsn-2-hd-ca.png" group-title="Canada | Sports Networks",CA-S: TSN 2
+http://ragnarokserve.com:847/RedBaron1/123987159/2292
+#EXTINF:-1 tvg-id="tsn3.ca" tvg-name="CA-S: TSN 3" tvg-logo="http://turbostarz.xyz/logos/tv-master/countries/canada/tsn-3-hd-ca.png" group-title="Canada | Sports Networks",CA-S: TSN 3
+http://ragnarokserve.com:847/RedBaron1/123987159/2293
+#EXTINF:-1 tvg-id="tsn4.ca" tvg-name="CA-S: TSN 4" tvg-logo="http://turbostarz.xyz/logos/tv-master/countries/canada/tsn-4-hd-ca.png" group-title="Canada | Sports Networks",CA-S: TSN 4
+http://ragnarokserve.com:847/RedBaron1/123987159/2294
+#EXTINF:-1 tvg-id="tsn5.ca" tvg-name="CA-S: TSN 5" tvg-logo="http://turbostarz.xyz/logos/tv-master/countries/canada/tsn-5-hd-ca.png" group-title="Canada | Sports Networks",CA-S: TSN 5
+http://ragnarokserve.com:847/RedBaron1/123987159/2295
