@@ -1,2 +1,24 @@
 #EXTINF:-1 tvg-id="ctvottawa.ca" tvg-name="CA: CTV OTTAWA HD" tvg-logo="" group-title="Canada",CA: CTV OTTAWA HD
 http://902188502250821350.otjb0606.xyz:80/play/vi29858/hEtwM9ScpcnR/821350.ts
+
+#EXTINF:-1,RCTI (720p)
+http://exoplay.xyz:8080/brhn6187/cn1004/168182
+
+#EXTINF:-1 tvg-id="sonyten1hd.in" tvg-name="Sony Ten 1 HD 2" tvg-logo="https://watchindia.net/images/channels/sports/Sony_Ten_1_HD.png" group-title="Sports",Sony Ten 1 HD 2
+http://watchindia.net:8880/live/37281/04057/2215.ts
+#EXTINF:-1 tvg-id="sonyten2hd.in" tvg-name="Sony Ten 2 HD 1" tvg-logo="https://watchindia.net/images/channels/sports/Sony_Ten_2_HD.png" group-title="Sports",Sony Ten 2 HD 1
+http://watchindia.net:8880/live/37281/04057/1757.ts
+
+#EXTINF:-1 tvg-id="ctv.ottawa.ca" tvg-name="CA117:CTV Ottawa" tvg-logo="http://www.tvboxgroup.com/iptv/logo/CA/CA117CTVOTTAWA.png" group-title="CA News",CA117:CTV Ottawa
+http://mohdtv.com:8880/voby4666/85466735/30197
+#EXTINF:-1 tvg-id="ctv.toronto.ca" tvg-name="CA118:CTV Toronto" tvg-logo="http://www.tvboxgroup.com/iptv/logo/CA/CA118CTVTORONTO.png" group-title="CA News",CA118:CTV Toronto
+http://mohdtv.com:8880/voby4666/85466735/30196
+#EXTINF:-1 tvg-id="ctv.vancouver.british.columbia.ca" tvg-name="CA119:CTV Vancouver" tvg-logo="http://www.tvboxgroup.com/iptv/logo/CA/CA119CTVVANCOUVER.png" group-title="CA News",CA119:CTV Vancouver
+http://mohdtv.com:8880/voby4666/85466735/30195
+
+#EXTINF:-1 tvg-id="" tvg-name="CA: CTV Calgary" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-01/6a23585c77d577bed549a5ec5fe325f1.png" group-title="CANADA",CA: CTV Calgary
+http://filex.tv:8080/shakeelmirza/4110440/290788
+#EXTINF:-1 tvg-id="" tvg-name="CA: CTV Montreal" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-04/349a86779758014d3487a70c7a8a33a7.png" group-title="CANADA",CA: CTV Montreal
+http://filex.tv:8080/shakeelmirza/4110440/290789
+#EXTINF:-1 tvg-id="" tvg-name="CA: CTV Toronto" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-04/4473c97c2f845834909b6dfbdae68958.png" group-title="CANADA",CA: CTV Toronto
+http://filex.tv:8080/shakeelmirza/4110440/290790
