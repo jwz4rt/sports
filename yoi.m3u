@@ -119,3 +119,12 @@ http://ikitvstream-play-euro.theworkpc.com:847/RedBaron1/123987159/3381
 http://ikitvstream-play-euro.theworkpc.com:847/RedBaron1/123987159/3385
 #EXTINF:-1 tvg-id="ctvwinnipeg.ca" tvg-name="CA: CTV WINNIPEG" tvg-logo="https://turbostarz.xyz/logos/tv-master/countries/canada/ctv-ca.png" group-title="Canada | Networks",CA: CTV WINNIPEG
 http://ikitvstream-play-euro.theworkpc.com:847/RedBaron1/123987159/3386
+#EXTINF:-1 tvg-id="ctvmontreal.ca" tvg-name="CA: CTV MONTREAL" tvg-logo="https://turbostarz.xyz/logos/tv-master/countries/canada/ctv-ca.png" group-title="Canada | Networks",CA: CTV MONTREAL
+http://ikitvstream-play-euro.theworkpc.com:847/RedBaron1/123987159/11333
+#EXTINF:-1 tvg-id="ctvkitchener.ca" tvg-name="CA: CTV KITCHENER" tvg-logo="https://turbostarz.xyz/logos/tv-master/countries/canada/ctv-ca.png" group-title="Canada | Networks",CA: CTV KITCHENER
+http://ikitvstream-play-euro.theworkpc.com:847/RedBaron1/123987159/74212
+#EXTINF:-1 tvg-id="ctvedmonton.ca" tvg-name="CA: CTV EDMONTON" tvg-logo="https://turbostarz.xyz/logos/tv-master/countries/canada/ctv-ca.png" group-title="Canada | Networks",CA: CTV EDMONTON
+http://ikitvstream-play-euro.theworkpc.com:847/RedBaron1/123987159/74213
+#EXTINF:-1 tvg-id="ctvsudbury.ca" tvg-name="CA: CTV SUDBURY" tvg-logo="https://turbostarz.xyz/logos/tv-master/countries/canada/ctv-ca.png" group-title="Canada | Networks",CA: CTV SUDBURY
+http://ikitvstream-play-euro.theworkpc.com:847/RedBaron1/123987159/74214
+
