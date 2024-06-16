@@ -84,17 +84,12 @@ http://143.255.176.165:8000/play/fox-sports2/index.m3u8
 #EXTINF:-1,[1064]-FOX SPORTS 3
 http://143.255.176.165:8000/play/fox-sports3/index.m3u8
 
-#EXTINF:-1,NYOBAKK URO
-http://ikitv-ooruestreams.enenet.co.uk:70/TSN1/index.m3u8
-
-#EXTINF:-1,NYOBAKK URO1
-http://ikitv-ooruestreams.enenet.co.uk:70/ESPN1/index.m3u8
-
-#EXTINF:-1,NYOBAKK URO2
-http://ikitv-ooruestreams.enenet.co.uk:70/ESPN2/index.m3u8
-
-#EXTINF:-1,NYOBAK TSN
-http://free.ikitv.online:8080/shakeelmirza/4110440/290734
+#EXTINF:-1,TES:CTV Ottawa
+http://ikitvstream-play.webhop.me:8880/12mmx010011/69774664/30197
+#EXTINF:-1,TES:CTV Toronto
+http://ikitvstream-play.webhop.me:8880/12mmx010011/69774664/30196
+#EXTINF:-1,TES:CTV Vancouver
+http://ikitvstream-play.webhop.me:8880/12mmx010011/69774664/30195
 
 
 #EXTINF:-1,TVA 1
