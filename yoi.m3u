@@ -64,3 +64,13 @@ http://185.59.221.131:8081/live/espn2/playlist.m3u8
 http://live.sportstv.com.tr/hls/low/sportstv_fhd/index.m3u8
 #EXTINF:-1,Rai Sport TV
 http://85.209.248.3:8080/RaiSportHD/index.m3u8
+
+
+#EXTINF:-1,beIN SPORTS 1tr
+https://bb.mackalitetv5.site/volestream/bein-sports-1.m3u8
+#EXTINF:-1,beIN SPORTS 2tr
+https://bb.mackalitetv5.site/volestream/bein-sports-2.m3u8
+#EXTINF:-1,beIN SPORTS 3tr
+https://bb.mackalitetv5.site/volestream/bein-sports-3.m3u8
+#EXTINF:-1,beIN SPORTS 4tr
+https://bb.mackalitetv5.site/volestream/bein-sports-4.m3u8
