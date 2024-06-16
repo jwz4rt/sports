@@ -100,3 +100,22 @@ http://1tv41.icu:8080/live/DB30Gt/960782/16130.m3u8
 #EXTINF:-2,CTV
 http://1tv41.icu:8080/live/DB30Gt/960782/47234.m3u8
 
+
+#EXTINF:-1 tvg-id="ctvcalgary.ca" tvg-name="CA: CTV CALGARY" tvg-logo="https://turbostarz.xyz/logos/tv-master/countries/canada/ctv-ca.png" group-title="Canada | Networks",CA: CTV CALGARY
+http://ikitvstream-play-euro.theworkpc.com:847/RedBaron1/123987159/3367
+#EXTINF:-1 tvg-id="ctvcomedy.ca" tvg-name="CA: CTV COMEDY" tvg-logo="https://turbostarz.xyz/logos/tv-master/countries/canada/ctv-comedy-channel-ca.png" group-title="Canada | Networks",CA: CTV COMEDY
+http://ikitvstream-play-euro.theworkpc.com:847/RedBaron1/123987159/3368
+#EXTINF:-1 tvg-id="ctvdrama.ca" tvg-name="CA: CTV DRAMA" tvg-logo="https://turbostarz.xyz/logos/tv-master/countries/canada/ctv-drama-channel-ca.png" group-title="Canada | Networks",CA: CTV DRAMA
+http://ikitvstream-play-euro.theworkpc.com:847/RedBaron1/123987159/3369
+#EXTINF:-1 tvg-id="ctvhalifax.ca" tvg-name="CA: CTV HALIFAX" tvg-logo="https://turbostarz.xyz/logos/tv-master/countries/canada/ctv-ca.png" group-title="Canada | Networks",CA: CTV HALIFAX
+http://ikitvstream-play-euro.theworkpc.com:847/RedBaron1/123987159/3371
+#EXTINF:-1 tvg-id="ctvnews.ca" tvg-name="CA: CTV NEWS" tvg-logo="https://turbostarz.xyz/logos/tv-master/countries/canada/ctv-news-ca.png" group-title="Canada | Networks",CA: CTV NEWS
+http://ikitvstream-play-euro.theworkpc.com:847/RedBaron1/123987159/3376
+#EXTINF:-1 tvg-id="ctvottawa.ca" tvg-name="CA: CTV OTTAWA" tvg-logo="https://turbostarz.xyz/logos/tv-master/countries/canada/ctv-ca.png" group-title="Canada | Networks",CA: CTV OTTAWA
+http://ikitvstream-play-euro.theworkpc.com:847/RedBaron1/123987159/3378
+#EXTINF:-1 tvg-id="ctvscifi.ca" tvg-name="CA: CTV SCI-FI" tvg-logo="https://turbostarz.xyz/logos/tv-master/countries/canada/ctv-sci-fi-channel-ca.png" group-title="Canada | Networks",CA: CTV SCI-FI
+http://ikitvstream-play-euro.theworkpc.com:847/RedBaron1/123987159/3381
+#EXTINF:-1 tvg-id="ctvvancouver.ca" tvg-name="CA: CTV VANCOUVER" tvg-logo="https://turbostarz.xyz/logos/tv-master/countries/canada/ctv-ca.png" group-title="Canada | Networks",CA: CTV VANCOUVER
+http://ikitvstream-play-euro.theworkpc.com:847/RedBaron1/123987159/3385
+#EXTINF:-1 tvg-id="ctvwinnipeg.ca" tvg-name="CA: CTV WINNIPEG" tvg-logo="https://turbostarz.xyz/logos/tv-master/countries/canada/ctv-ca.png" group-title="Canada | Networks",CA: CTV WINNIPEG
+http://ikitvstream-play-euro.theworkpc.com:847/RedBaron1/123987159/3386
