@@ -101,6 +101,9 @@ http://1tv41.icu:8080/live/DB30Gt/960782/16130.m3u8
 http://1tv41.icu:8080/live/DB30Gt/960782/47234.m3u8
 
 
+
+#EXTINF:-1 tvg-id="ctvtoronto.ca" tvg-name="CA: CTV TORONTO" tvg-logo="https://turbostarz.xyz/logos/tv-master/countries/canada/ctv-ca.png" group-title="Canada | Networks",CA: CTV TORONTO
+http://ikitvstream-play-euro.theworkpc.com:847/RedBaron1/123987159/2028
 #EXTINF:-1 tvg-id="ctvcalgary.ca" tvg-name="CA: CTV CALGARY" tvg-logo="https://turbostarz.xyz/logos/tv-master/countries/canada/ctv-ca.png" group-title="Canada | Networks",CA: CTV CALGARY
 http://ikitvstream-play-euro.theworkpc.com:847/RedBaron1/123987159/3367
 #EXTINF:-1 tvg-id="ctvcomedy.ca" tvg-name="CA: CTV COMEDY" tvg-logo="https://turbostarz.xyz/logos/tv-master/countries/canada/ctv-comedy-channel-ca.png" group-title="Canada | Networks",CA: CTV COMEDY
