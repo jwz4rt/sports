@@ -74,3 +74,12 @@ https://bb.mackalitetv5.site/volestream/bein-sports-2.m3u8
 https://bb.mackalitetv5.site/volestream/bein-sports-3.m3u8
 #EXTINF:-1,beIN SPORTS 4tr
 https://bb.mackalitetv5.site/volestream/bein-sports-4.m3u8
+
+
+
+#EXTINF:-1,[1062]-FOX SPORTS 1
+http://143.255.176.165:8000/play/fox-sports1/index.m3u8
+#EXTINF:-1,[1063]-FOX SPORTS 2
+http://143.255.176.165:8000/play/fox-sports2/index.m3u8
+#EXTINF:-1,[1064]-FOX SPORTS 3
+http://143.255.176.165:8000/play/fox-sports3/index.m3u8
