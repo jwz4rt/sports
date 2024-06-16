@@ -90,7 +90,8 @@ http://ikitvstream-play.webhop.me:8880/12mmx010011/69774664/30197
 http://ikitvstream-play.webhop.me:8880/12mmx010011/69774664/30196
 #EXTINF:-1,TES:CTV Vancouver
 http://ikitvstream-play.webhop.me:8880/12mmx010011/69774664/30195
-
+#EXTINF:-1,TES:SKYSPORT
+https://linear302-it-dash1-prd-ll.cdn13.skycdp.com/016a/31209/FHD/skysportseriea/master.mpd&key=0036e5d0e88dfb087f1791da6150ced9&key2=0bc653d830837dceb13bd17169f0f8e2
 
 #EXTINF:-1,TVA 1
 http://1tv41.icu:8080/live/DB30Gt/960782/57498.m3u8
