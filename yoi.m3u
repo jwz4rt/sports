@@ -93,6 +93,8 @@ http://ikitv-ooruestreams.enenet.co.uk:70/ESPN1/index.m3u8
 #EXTINF:-1,NYOBAKK URO2
 http://ikitv-ooruestreams.enenet.co.uk:70/ESPN2/index.m3u8
 
+#EXTINF:-1,NYOBAK SONY
+http://free.ikitv.online:8080/shakeelmirza/4110440/52083
 
 
 #EXTINF:-1,TVA 1
