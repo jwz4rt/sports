@@ -91,3 +91,6 @@ http://143.255.176.165:8000/play/fox-sports3/index.m3u8
 http://1tv41.icu:8080/live/DB30Gt/960782/57498.m3u8
 #EXTINF:-2,TSN4
 http://1tv41.icu:8080/live/DB30Gt/960782/16130.m3u8
+#EXTINF:-2,CTV
+http://1tv41.icu:8080/live/DB30Gt/960782/47234.m3u8
+
