@@ -84,7 +84,8 @@ http://143.255.176.165:8000/play/fox-sports2/index.m3u8
 #EXTINF:-1,[1064]-FOX SPORTS 3
 http://143.255.176.165:8000/play/fox-sports3/index.m3u8
 
-
+#EXTINF:-1,NYOBAKK URO
+http://ikitv-ooruestreams.enenet.co.uk:70/TSN1/index.m3u8
 
 
 #EXTINF:-1,TVA 1
