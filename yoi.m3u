@@ -11,6 +11,14 @@ http://4.26.188.2:8081/udp/239.193.10.101:23901
 
 
 
+#EXTINF:-1 tvg-id="" tvg-name="IT: Sky Sport Uno" tvg-logo="https://img-cdn.curl.pk/channels_icon/34847707121.png" group-title="CANAIS | ITÁLIA",IT: Sky Sport Uno
+http://195.128.248.216:8080/1837618/121618/305869
+#EXTINF:-1 tvg-id="" tvg-name="IT: Sky Sport 251" tvg-logo="https://img-cdn.curl.pk/channels_icon/67601611581.png" group-title="CANAIS | ITÁLIA",IT: Sky Sport 251
+http://195.128.248.216:8080/1837618/121618/305870
+
+
+
+
 #EXTINF:-1,CANAL+ SPORT 1
 http://145.239.5.177:8080/537/index.m3u8
 #EXTINF:-1,Canal+ Sports 2
