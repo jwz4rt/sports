@@ -213,6 +213,7 @@ http://38.41.8.1:8000/play/a00k
 
 #EXTINF:-1,EWTN EN ESPA¹OL
 http://38.41.8.1:8000/play/a0at
-
+#EXTINF:-1,ESPN CO
+http://38.41.8.1:8000/play/a06r
 #EXTINF:-1,El Gourmet HD
 http://line.clear-ocean.link:80/play/live.php?mac=00:1A:79:1e:1b:01&stream=2083&extension=ts
